@@ -1,0 +1,4853 @@
+[
+    {
+        "name": "Badakhshan",
+        "latitude": "36.73477250",
+        "longitude": "70.81199530",
+        "population": 2394253,
+        "timezone": "UTC-12:37",
+        "id": 1,
+        "country_id": 1
+    },
+    {
+        "name": "Badghis",
+        "latitude": "35.16713390",
+        "longitude": "63.76953840",
+        "population": 3672407,
+        "timezone": "UTC-08:49",
+        "id": 2,
+        "country_id": 1
+    },
+    {
+        "name": "Baghlan",
+        "latitude": "36.17890260",
+        "longitude": "68.74530640",
+        "population": 6895029,
+        "timezone": "UTC-03:07",
+        "id": 3,
+        "country_id": 1
+    },
+    {
+        "name": "Berat County",
+        "latitude": "40.69530120",
+        "longitude": "20.04496620",
+        "population": 3549811,
+        "timezone": "UTC+10:27",
+        "id": 4,
+        "country_id": 2
+    },
+    {
+        "name": "Berat District",
+        "latitude": "40.70863770",
+        "longitude": "19.94373140",
+        "population": 3826811,
+        "timezone": "UTC+09:03",
+        "id": 5,
+        "country_id": 2
+    },
+    {
+        "name": "Bulqiz\u00eb District",
+        "latitude": "41.49425870",
+        "longitude": "20.21471570",
+        "population": 3320640,
+        "timezone": "UTC+01:19",
+        "id": 6,
+        "country_id": 2
+    },
+    {
+        "name": "Adrar",
+        "latitude": "26.41813100",
+        "longitude": "-0.60147170",
+        "population": 9732884,
+        "timezone": "UTC-03:28",
+        "id": 7,
+        "country_id": 3
+    },
+    {
+        "name": "A\u00efn Defla",
+        "latitude": "36.25094290",
+        "longitude": "1.93938150",
+        "population": 1580394,
+        "timezone": "UTC+01:50",
+        "id": 8,
+        "country_id": 3
+    },
+    {
+        "name": "A\u00efn T\u00e9mouchent",
+        "latitude": "35.29926980",
+        "longitude": "-1.13927920",
+        "population": 9222261,
+        "timezone": "UTC+08:59",
+        "id": 9,
+        "country_id": 3
+    },
+    {
+        "name": "Andorra la Vella",
+        "latitude": "42.50631740",
+        "longitude": "1.52183550",
+        "population": 2810768,
+        "timezone": "UTC-01:38",
+        "id": 10,
+        "country_id": 4
+    },
+    {
+        "name": "Canillo",
+        "latitude": "42.59782490",
+        "longitude": "1.65663770",
+        "population": 1172356,
+        "timezone": "UTC-11:03",
+        "id": 11,
+        "country_id": 4
+    },
+    {
+        "name": "Encamp",
+        "latitude": "42.53597640",
+        "longitude": "1.58367730",
+        "population": 2068356,
+        "timezone": "UTC+08:54",
+        "id": 12,
+        "country_id": 4
+    },
+    {
+        "name": "Bengo Province",
+        "latitude": "-9.10422570",
+        "longitude": "13.72891670",
+        "population": 9204359,
+        "timezone": "UTC-04:16",
+        "id": 13,
+        "country_id": 5
+    },
+    {
+        "name": "Benguela Province",
+        "latitude": "-12.80037440",
+        "longitude": "13.91439900",
+        "population": 9951858,
+        "timezone": "UTC+06:48",
+        "id": 14,
+        "country_id": 5
+    },
+    {
+        "name": "Bi\u00e9 Province",
+        "latitude": "-12.57279070",
+        "longitude": "17.66888700",
+        "population": 2990925,
+        "timezone": "UTC-10:12",
+        "id": 15,
+        "country_id": 5
+    },
+    {
+        "name": "Buenos Aires",
+        "latitude": "-37.20172850",
+        "longitude": "-59.84106970",
+        "population": 7520304,
+        "timezone": "UTC-03:36",
+        "id": 16,
+        "country_id": 6
+    },
+    {
+        "name": "Catamarca",
+        "latitude": "-28.47158770",
+        "longitude": "-65.78772090",
+        "population": 9380629,
+        "timezone": "UTC-07:17",
+        "id": 17,
+        "country_id": 6
+    },
+    {
+        "name": "Chaco",
+        "latitude": "-27.42571750",
+        "longitude": "-59.02437840",
+        "population": 4678266,
+        "timezone": "UTC-06:43",
+        "id": 18,
+        "country_id": 6
+    },
+    {
+        "name": "Aragatsotn Region",
+        "latitude": "40.33473010",
+        "longitude": "44.37482960",
+        "population": 1111594,
+        "timezone": "UTC+02:19",
+        "id": 19,
+        "country_id": 7
+    },
+    {
+        "name": "Ararat Province",
+        "latitude": "39.91394150",
+        "longitude": "44.72000040",
+        "population": 7455689,
+        "timezone": "UTC+01:05",
+        "id": 20,
+        "country_id": 7
+    },
+    {
+        "name": "Armavir Region",
+        "latitude": "40.15546310",
+        "longitude": "44.03724460",
+        "population": 6758335,
+        "timezone": "UTC+02:53",
+        "id": 21,
+        "country_id": 7
+    },
+    {
+        "name": "Australian Capital Territory",
+        "latitude": "-35.47346790",
+        "longitude": "149.01236790",
+        "population": 1493020,
+        "timezone": "UTC-10:47",
+        "id": 22,
+        "country_id": 8
+    },
+    {
+        "name": "New South Wales",
+        "latitude": "-31.25321830",
+        "longitude": "146.92109900",
+        "population": 2545874,
+        "timezone": "UTC-05:48",
+        "id": 23,
+        "country_id": 8
+    },
+    {
+        "name": "Northern Territory",
+        "latitude": "-19.49141080",
+        "longitude": "132.55096030",
+        "population": 4535445,
+        "timezone": "UTC-06:12",
+        "id": 24,
+        "country_id": 8
+    },
+    {
+        "name": "Burgenland",
+        "latitude": "47.15371650",
+        "longitude": "16.26887970",
+        "population": 2304700,
+        "timezone": "UTC+00:24",
+        "id": 25,
+        "country_id": 9
+    },
+    {
+        "name": "Carinthia",
+        "latitude": "46.72220300",
+        "longitude": "14.18058820",
+        "population": 1642948,
+        "timezone": "UTC-08:50",
+        "id": 26,
+        "country_id": 9
+    },
+    {
+        "name": "Lower Austria",
+        "latitude": "48.10807700",
+        "longitude": "15.80495580",
+        "population": 8346621,
+        "timezone": "UTC+11:28",
+        "id": 27,
+        "country_id": 9
+    },
+    {
+        "name": "Absheron District",
+        "latitude": "40.36296930",
+        "longitude": "49.27368150",
+        "population": 2602916,
+        "timezone": "UTC-09:26",
+        "id": 28,
+        "country_id": 10
+    },
+    {
+        "name": "Agdam District",
+        "latitude": "39.99318530",
+        "longitude": "46.99495620",
+        "population": 7444781,
+        "timezone": "UTC+07:21",
+        "id": 29,
+        "country_id": 10
+    },
+    {
+        "name": "Agdash District",
+        "latitude": "40.63354270",
+        "longitude": "47.46743100",
+        "population": 2682700,
+        "timezone": "UTC+02:22",
+        "id": 30,
+        "country_id": 10
+    },
+    {
+        "name": "Capital",
+        "latitude": null,
+        "longitude": null,
+        "population": 7248701,
+        "timezone": "UTC-06:48",
+        "id": 31,
+        "country_id": 11
+    },
+    {
+        "name": "Central",
+        "latitude": "26.14260930",
+        "longitude": "50.56532940",
+        "population": 6302802,
+        "timezone": "UTC+07:47",
+        "id": 32,
+        "country_id": 11
+    },
+    {
+        "name": "Muharraq",
+        "latitude": "26.26856530",
+        "longitude": "50.64825170",
+        "population": 2412201,
+        "timezone": "UTC-02:05",
+        "id": 33,
+        "country_id": 11
+    },
+    {
+        "name": "Bagerhat District",
+        "latitude": "22.66024360",
+        "longitude": "89.78954780",
+        "population": 8649427,
+        "timezone": "UTC-10:15",
+        "id": 34,
+        "country_id": 12
+    },
+    {
+        "name": "Bahadia",
+        "latitude": "23.78987120",
+        "longitude": "90.16714830",
+        "population": 4802551,
+        "timezone": "UTC+03:24",
+        "id": 35,
+        "country_id": 12
+    },
+    {
+        "name": "Bandarban District",
+        "latitude": "21.83110020",
+        "longitude": "92.36863210",
+        "population": 4560734,
+        "timezone": "UTC-11:47",
+        "id": 36,
+        "country_id": 12
+    },
+    {
+        "name": "Christ Church",
+        "latitude": "36.00604070",
+        "longitude": "-95.92112100",
+        "population": 5789072,
+        "timezone": "UTC+12:43",
+        "id": 37,
+        "country_id": 13
+    },
+    {
+        "name": "Saint Andrew",
+        "latitude": null,
+        "longitude": null,
+        "population": 7009824,
+        "timezone": "UTC-09:08",
+        "id": 38,
+        "country_id": 13
+    },
+    {
+        "name": "Saint George",
+        "latitude": "37.09652780",
+        "longitude": "-113.56841640",
+        "population": 5758486,
+        "timezone": "UTC+02:49",
+        "id": 39,
+        "country_id": 13
+    },
+    {
+        "name": "Brest Region",
+        "latitude": "52.52966410",
+        "longitude": "25.46064800",
+        "population": 7151908,
+        "timezone": "UTC+06:38",
+        "id": 40,
+        "country_id": 14
+    },
+    {
+        "name": "Gomel Region",
+        "latitude": "52.16487540",
+        "longitude": "29.13332510",
+        "population": 1988500,
+        "timezone": "UTC-07:57",
+        "id": 41,
+        "country_id": 14
+    },
+    {
+        "name": "Grodno Region",
+        "latitude": "53.65999450",
+        "longitude": "25.34485710",
+        "population": 5176231,
+        "timezone": "UTC-11:25",
+        "id": 42,
+        "country_id": 14
+    },
+    {
+        "name": "Antwerp",
+        "latitude": "51.21944750",
+        "longitude": "4.40246430",
+        "population": 9462900,
+        "timezone": "UTC+06:27",
+        "id": 43,
+        "country_id": 15
+    },
+    {
+        "name": "Brussels-Capital Region",
+        "latitude": "50.85034630",
+        "longitude": "4.35172110",
+        "population": 6153854,
+        "timezone": "UTC-08:43",
+        "id": 44,
+        "country_id": 15
+    },
+    {
+        "name": "East Flanders",
+        "latitude": "51.03621010",
+        "longitude": "3.73731240",
+        "population": 4237974,
+        "timezone": "UTC+00:54",
+        "id": 45,
+        "country_id": 15
+    },
+    {
+        "name": "Belize District",
+        "latitude": "17.56776790",
+        "longitude": "-88.40160410",
+        "population": 5535828,
+        "timezone": "UTC-06:22",
+        "id": 46,
+        "country_id": 16
+    },
+    {
+        "name": "Cayo District",
+        "latitude": "17.09844450",
+        "longitude": "-88.94138650",
+        "population": 2768593,
+        "timezone": "UTC+01:01",
+        "id": 47,
+        "country_id": 16
+    },
+    {
+        "name": "Corozal District",
+        "latitude": "18.13492380",
+        "longitude": "-88.24611830",
+        "population": 2940137,
+        "timezone": "UTC-10:29",
+        "id": 48,
+        "country_id": 16
+    },
+    {
+        "name": "Alibori Department",
+        "latitude": "10.96810930",
+        "longitude": "2.77798130",
+        "population": 2662062,
+        "timezone": "UTC-05:57",
+        "id": 49,
+        "country_id": 17
+    },
+    {
+        "name": "Atakora Department",
+        "latitude": "10.79549310",
+        "longitude": "1.67606910",
+        "population": 5578311,
+        "timezone": "UTC+10:47",
+        "id": 50,
+        "country_id": 17
+    },
+    {
+        "name": "Atlantique Department",
+        "latitude": "6.65883910",
+        "longitude": "2.22366670",
+        "population": 1140855,
+        "timezone": "UTC+09:19",
+        "id": 51,
+        "country_id": 17
+    },
+    {
+        "name": "Bumthang District",
+        "latitude": "27.64183900",
+        "longitude": "90.67730460",
+        "population": 4908617,
+        "timezone": "UTC-12:48",
+        "id": 52,
+        "country_id": 18
+    },
+    {
+        "name": "Chukha District",
+        "latitude": "27.07843040",
+        "longitude": "89.47421770",
+        "population": 6495726,
+        "timezone": "UTC-05:01",
+        "id": 53,
+        "country_id": 18
+    },
+    {
+        "name": "Dagana District",
+        "latitude": "27.03228610",
+        "longitude": "89.88793040",
+        "population": 7668364,
+        "timezone": "UTC+03:47",
+        "id": 54,
+        "country_id": 18
+    },
+    {
+        "name": "Beni Department",
+        "latitude": "-14.37827470",
+        "longitude": "-65.09577920",
+        "population": 3273569,
+        "timezone": "UTC+01:56",
+        "id": 55,
+        "country_id": 19
+    },
+    {
+        "name": "Chuquisaca Department",
+        "latitude": "-20.02491440",
+        "longitude": "-64.14782360",
+        "population": 3153377,
+        "timezone": "UTC+09:14",
+        "id": 56,
+        "country_id": 19
+    },
+    {
+        "name": "Cochabamba Department",
+        "latitude": "-17.56816750",
+        "longitude": "-65.47573600",
+        "population": 4903316,
+        "timezone": "UTC-04:51",
+        "id": 57,
+        "country_id": 19
+    },
+    {
+        "name": "Bosnian Podrinje Canton",
+        "latitude": "43.68749000",
+        "longitude": "18.82443940",
+        "population": 7959863,
+        "timezone": "UTC-04:31",
+        "id": 58,
+        "country_id": 20
+    },
+    {
+        "name": "Br\u010dko District",
+        "latitude": "44.84059440",
+        "longitude": "18.74215300",
+        "population": 4077940,
+        "timezone": "UTC+01:52",
+        "id": 59,
+        "country_id": 20
+    },
+    {
+        "name": "Canton 10",
+        "latitude": "43.95341550",
+        "longitude": "16.94251870",
+        "population": 3077106,
+        "timezone": "UTC-09:23",
+        "id": 60,
+        "country_id": 20
+    },
+    {
+        "name": "Central District",
+        "latitude": null,
+        "longitude": null,
+        "population": 6040914,
+        "timezone": "UTC-09:07",
+        "id": 61,
+        "country_id": 21
+    },
+    {
+        "name": "Ghanzi District",
+        "latitude": "-21.86523140",
+        "longitude": "21.85685860",
+        "population": 4223757,
+        "timezone": "UTC-01:04",
+        "id": 62,
+        "country_id": 21
+    },
+    {
+        "name": "Kgalagadi District",
+        "latitude": "-24.75502850",
+        "longitude": "21.85685860",
+        "population": 1473169,
+        "timezone": "UTC+02:51",
+        "id": 63,
+        "country_id": 21
+    },
+    {
+        "name": "Acre",
+        "latitude": "-9.02379600",
+        "longitude": "-70.81199500",
+        "population": 1876396,
+        "timezone": "UTC-09:59",
+        "id": 64,
+        "country_id": 22
+    },
+    {
+        "name": "Alagoas",
+        "latitude": "-9.57130580",
+        "longitude": "-36.78195050",
+        "population": 3532367,
+        "timezone": "UTC+01:10",
+        "id": 65,
+        "country_id": 22
+    },
+    {
+        "name": "Amap\u00e1",
+        "latitude": "0.90199250",
+        "longitude": "-52.00295650",
+        "population": 8089484,
+        "timezone": "UTC+09:18",
+        "id": 66,
+        "country_id": 22
+    },
+    {
+        "name": "Belait District",
+        "latitude": "4.37507490",
+        "longitude": "114.61928990",
+        "population": 2787512,
+        "timezone": "UTC+08:41",
+        "id": 67,
+        "country_id": 23
+    },
+    {
+        "name": "Brunei-Muara District",
+        "latitude": "4.93112060",
+        "longitude": "114.95168690",
+        "population": 3363480,
+        "timezone": "UTC-11:08",
+        "id": 68,
+        "country_id": 23
+    },
+    {
+        "name": "Temburong District",
+        "latitude": "4.62041280",
+        "longitude": "115.14148400",
+        "population": 2654661,
+        "timezone": "UTC+10:40",
+        "id": 69,
+        "country_id": 23
+    },
+    {
+        "name": "Blagoevgrad Province",
+        "latitude": "42.02086140",
+        "longitude": "23.09433560",
+        "population": 7123787,
+        "timezone": "UTC+05:24",
+        "id": 70,
+        "country_id": 24
+    },
+    {
+        "name": "Burgas Province",
+        "latitude": "42.50480000",
+        "longitude": "27.46260790",
+        "population": 2294646,
+        "timezone": "UTC-07:05",
+        "id": 71,
+        "country_id": 24
+    },
+    {
+        "name": "Dobrich Province",
+        "latitude": "43.57278600",
+        "longitude": "27.82728020",
+        "population": 9381410,
+        "timezone": "UTC+02:48",
+        "id": 72,
+        "country_id": 24
+    },
+    {
+        "name": "Bal\u00e9 Province",
+        "latitude": "11.78206020",
+        "longitude": "-3.01757120",
+        "population": 9183623,
+        "timezone": "UTC+11:40",
+        "id": 73,
+        "country_id": 25
+    },
+    {
+        "name": "Bam Province",
+        "latitude": "13.44613300",
+        "longitude": "-1.59839590",
+        "population": 1663420,
+        "timezone": "UTC-10:37",
+        "id": 74,
+        "country_id": 25
+    },
+    {
+        "name": "Banwa Province",
+        "latitude": "12.13230530",
+        "longitude": "-4.15137640",
+        "population": 5465277,
+        "timezone": "UTC+11:17",
+        "id": 75,
+        "country_id": 25
+    },
+    {
+        "name": "Bubanza Province",
+        "latitude": "-3.15724030",
+        "longitude": "29.37149090",
+        "population": 7010542,
+        "timezone": "UTC-09:59",
+        "id": 76,
+        "country_id": 26
+    },
+    {
+        "name": "Bujumbura Mairie Province",
+        "latitude": "-3.38841410",
+        "longitude": "29.34826460",
+        "population": 1652628,
+        "timezone": "UTC+00:07",
+        "id": 77,
+        "country_id": 26
+    },
+    {
+        "name": "Bujumbura Rural Province",
+        "latitude": "-3.50901440",
+        "longitude": "29.46435900",
+        "population": 3110485,
+        "timezone": "UTC-09:33",
+        "id": 78,
+        "country_id": 26
+    },
+    {
+        "name": "Banteay Meanchey",
+        "latitude": "13.75319140",
+        "longitude": "102.98961500",
+        "population": 7637135,
+        "timezone": "UTC-11:49",
+        "id": 79,
+        "country_id": 27
+    },
+    {
+        "name": "Battambang",
+        "latitude": "13.02869710",
+        "longitude": "102.98961500",
+        "population": 8252545,
+        "timezone": "UTC+10:56",
+        "id": 80,
+        "country_id": 27
+    },
+    {
+        "name": "Kampong Cham",
+        "latitude": "12.09829180",
+        "longitude": "105.31311850",
+        "population": 8013294,
+        "timezone": "UTC+06:40",
+        "id": 81,
+        "country_id": 27
+    },
+    {
+        "name": "Adamawa",
+        "latitude": "9.32647510",
+        "longitude": "12.39838530",
+        "population": 1835503,
+        "timezone": "UTC+03:14",
+        "id": 82,
+        "country_id": 28
+    },
+    {
+        "name": "Centre",
+        "latitude": null,
+        "longitude": null,
+        "population": 1010484,
+        "timezone": "UTC+07:42",
+        "id": 83,
+        "country_id": 28
+    },
+    {
+        "name": "East",
+        "latitude": "39.01853360",
+        "longitude": "-94.27924110",
+        "population": 4481522,
+        "timezone": "UTC+08:29",
+        "id": 84,
+        "country_id": 28
+    },
+    {
+        "name": "Alberta",
+        "latitude": "53.93327060",
+        "longitude": "-116.57650350",
+        "population": 1352924,
+        "timezone": "UTC+04:53",
+        "id": 85,
+        "country_id": 29
+    },
+    {
+        "name": "British Columbia",
+        "latitude": "53.72666830",
+        "longitude": "-127.64762050",
+        "population": 3013701,
+        "timezone": "UTC-05:29",
+        "id": 86,
+        "country_id": 29
+    },
+    {
+        "name": "Manitoba",
+        "latitude": "53.76086080",
+        "longitude": "-98.81387620",
+        "population": 3325592,
+        "timezone": "UTC+04:08",
+        "id": 87,
+        "country_id": 29
+    },
+    {
+        "name": "Barlavento Islands",
+        "latitude": "16.82368450",
+        "longitude": "-23.99348810",
+        "population": 6714686,
+        "timezone": "UTC-09:45",
+        "id": 88,
+        "country_id": 30
+    },
+    {
+        "name": "Boa Vista",
+        "latitude": "38.74346600",
+        "longitude": "-120.73042970",
+        "population": 7304219,
+        "timezone": "UTC+11:39",
+        "id": 89,
+        "country_id": 30
+    },
+    {
+        "name": "Brava",
+        "latitude": "40.98977780",
+        "longitude": "-73.68357150",
+        "population": 9593212,
+        "timezone": "UTC+04:07",
+        "id": 90,
+        "country_id": 30
+    },
+    {
+        "name": "Bamingui-Bangoran Prefecture",
+        "latitude": "8.27334550",
+        "longitude": "20.71224650",
+        "population": 7467453,
+        "timezone": "UTC+10:21",
+        "id": 91,
+        "country_id": 31
+    },
+    {
+        "name": "Bangui",
+        "latitude": "4.39467350",
+        "longitude": "18.55818990",
+        "population": 5829087,
+        "timezone": "UTC-02:18",
+        "id": 92,
+        "country_id": 31
+    },
+    {
+        "name": "Basse-Kotto Prefecture",
+        "latitude": "4.87193190",
+        "longitude": "21.28450250",
+        "population": 3281632,
+        "timezone": "UTC-03:43",
+        "id": 93,
+        "country_id": 31
+    },
+    {
+        "name": "Bahr el Gazel",
+        "latitude": "14.77022660",
+        "longitude": "16.91225100",
+        "population": 8731322,
+        "timezone": "UTC+00:29",
+        "id": 94,
+        "country_id": 32
+    },
+    {
+        "name": "Batha",
+        "latitude": "13.93717750",
+        "longitude": "18.42760470",
+        "population": 5099598,
+        "timezone": "UTC-02:00",
+        "id": 95,
+        "country_id": 32
+    },
+    {
+        "name": "Borkou",
+        "latitude": "17.86888450",
+        "longitude": "18.80761950",
+        "population": 4134471,
+        "timezone": "UTC+05:05",
+        "id": 96,
+        "country_id": 32
+    },
+    {
+        "name": "Ais\u00e9n del General Carlos Iba\u00f1ez del Campo",
+        "latitude": "-46.37834500",
+        "longitude": "-72.30076230",
+        "population": 2829749,
+        "timezone": "UTC-02:36",
+        "id": 97,
+        "country_id": 33
+    },
+    {
+        "name": "Antofagasta",
+        "latitude": "-23.83691040",
+        "longitude": "-69.28775350",
+        "population": 2515243,
+        "timezone": "UTC+08:23",
+        "id": 98,
+        "country_id": 33
+    },
+    {
+        "name": "Arica y Parinacota",
+        "latitude": "-18.59404850",
+        "longitude": "-69.47845410",
+        "population": 2314118,
+        "timezone": "UTC+07:08",
+        "id": 99,
+        "country_id": 33
+    },
+    {
+        "name": "Anhui",
+        "latitude": "30.60067730",
+        "longitude": "117.92490020",
+        "population": 3771220,
+        "timezone": "UTC-03:29",
+        "id": 100,
+        "country_id": 34
+    },
+    {
+        "name": "Beijing",
+        "latitude": "39.90419990",
+        "longitude": "116.40739630",
+        "population": 5544982,
+        "timezone": "UTC-06:31",
+        "id": 101,
+        "country_id": 34
+    },
+    {
+        "name": "Chongqing",
+        "latitude": "29.43158610",
+        "longitude": "106.91225100",
+        "population": 3326377,
+        "timezone": "UTC+00:31",
+        "id": 102,
+        "country_id": 34
+    },
+    {
+        "name": "Amazonas",
+        "latitude": "-1.44291230",
+        "longitude": "-71.57239530",
+        "population": 7866666,
+        "timezone": "UTC+04:13",
+        "id": 103,
+        "country_id": 35
+    },
+    {
+        "name": "Antioquia",
+        "latitude": "7.19860640",
+        "longitude": "-75.34121790",
+        "population": 4778926,
+        "timezone": "UTC+08:50",
+        "id": 104,
+        "country_id": 35
+    },
+    {
+        "name": "Arauca",
+        "latitude": "6.54730600",
+        "longitude": "-71.00223110",
+        "population": 2123181,
+        "timezone": "UTC+08:06",
+        "id": 105,
+        "country_id": 35
+    },
+    {
+        "name": "Anjouan",
+        "latitude": "-12.21381450",
+        "longitude": "44.43706060",
+        "population": 1209843,
+        "timezone": "UTC-11:06",
+        "id": 106,
+        "country_id": 36
+    },
+    {
+        "name": "Grande Comore",
+        "latitude": "-11.71673380",
+        "longitude": "43.36807880",
+        "population": 4006614,
+        "timezone": "UTC-07:37",
+        "id": 107,
+        "country_id": 36
+    },
+    {
+        "name": "Moh\u00e9li",
+        "latitude": "-12.33773760",
+        "longitude": "43.73340890",
+        "population": 7730232,
+        "timezone": "UTC+01:00",
+        "id": 108,
+        "country_id": 36
+    },
+    {
+        "name": "Bouenza Department",
+        "latitude": "-4.11280790",
+        "longitude": "13.72891670",
+        "population": 6044565,
+        "timezone": "UTC-01:27",
+        "id": 109,
+        "country_id": 37
+    },
+    {
+        "name": "Brazzaville",
+        "latitude": "-4.26335970",
+        "longitude": "15.24288530",
+        "population": 4859754,
+        "timezone": "UTC-04:19",
+        "id": 110,
+        "country_id": 37
+    },
+    {
+        "name": "Cuvette Department",
+        "latitude": "-0.28774460",
+        "longitude": "16.15809370",
+        "population": 8183475,
+        "timezone": "UTC+02:53",
+        "id": 111,
+        "country_id": 37
+    },
+    {
+        "name": "Alajuela Province",
+        "latitude": "10.39158300",
+        "longitude": "-84.43827210",
+        "population": 3002419,
+        "timezone": "UTC+12:35",
+        "id": 112,
+        "country_id": 38
+    },
+    {
+        "name": "Guanacaste Province",
+        "latitude": "10.62673990",
+        "longitude": "-85.44367060",
+        "population": 7971744,
+        "timezone": "UTC+09:40",
+        "id": 113,
+        "country_id": 38
+    },
+    {
+        "name": "Heredia Province",
+        "latitude": "10.47352300",
+        "longitude": "-84.01674230",
+        "population": 6966015,
+        "timezone": "UTC+04:54",
+        "id": 114,
+        "country_id": 38
+    },
+    {
+        "name": "Bjelovar-Bilogora",
+        "latitude": "45.89879720",
+        "longitude": "16.84230930",
+        "population": 4544408,
+        "timezone": "UTC+05:34",
+        "id": 115,
+        "country_id": 39
+    },
+    {
+        "name": "Brod-Posavina",
+        "latitude": "45.26379510",
+        "longitude": "17.32645620",
+        "population": 3027667,
+        "timezone": "UTC-05:42",
+        "id": 116,
+        "country_id": 39
+    },
+    {
+        "name": "Dubrovnik-Neretva",
+        "latitude": "43.07665880",
+        "longitude": "17.52684710",
+        "population": 6107000,
+        "timezone": "UTC+01:19",
+        "id": 117,
+        "country_id": 39
+    },
+    {
+        "name": "Artemisa Province",
+        "latitude": "22.75229030",
+        "longitude": "-82.99316070",
+        "population": 7753860,
+        "timezone": "UTC+10:49",
+        "id": 118,
+        "country_id": 40
+    },
+    {
+        "name": "Camag\u00fcey Province",
+        "latitude": "21.21672470",
+        "longitude": "-77.74520810",
+        "population": 8773961,
+        "timezone": "UTC+01:18",
+        "id": 119,
+        "country_id": 40
+    },
+    {
+        "name": "Ciego de \u00c1vila Province",
+        "latitude": "21.93295150",
+        "longitude": "-78.56608520",
+        "population": 6757725,
+        "timezone": "UTC+09:42",
+        "id": 120,
+        "country_id": 40
+    },
+    {
+        "name": "Famagusta District (Ma\u011fusa)",
+        "latitude": "35.28570230",
+        "longitude": "33.84112880",
+        "population": 8210890,
+        "timezone": "UTC+06:43",
+        "id": 121,
+        "country_id": 41
+    },
+    {
+        "name": "Kyrenia District (Keryneia)",
+        "latitude": "35.29919400",
+        "longitude": "33.23632460",
+        "population": 5154762,
+        "timezone": "UTC-09:51",
+        "id": 122,
+        "country_id": 41
+    },
+    {
+        "name": "Larnaca District (Larnaka)",
+        "latitude": "34.85072060",
+        "longitude": "33.48319060",
+        "population": 1708083,
+        "timezone": "UTC+00:24",
+        "id": 123,
+        "country_id": 41
+    },
+    {
+        "name": "Bene\u0161ov",
+        "latitude": "49.69008280",
+        "longitude": "14.77643990",
+        "population": 5489592,
+        "timezone": "UTC-01:39",
+        "id": 124,
+        "country_id": 42
+    },
+    {
+        "name": "Beroun",
+        "latitude": "49.95734280",
+        "longitude": "13.98407150",
+        "population": 5774307,
+        "timezone": "UTC-01:46",
+        "id": 125,
+        "country_id": 42
+    },
+    {
+        "name": "Blansko",
+        "latitude": "49.36485020",
+        "longitude": "16.64775520",
+        "population": 7251683,
+        "timezone": "UTC+06:12",
+        "id": 126,
+        "country_id": 42
+    },
+    {
+        "name": "Capital Region of Denmark",
+        "latitude": "55.67518120",
+        "longitude": "12.54932610",
+        "population": 6231928,
+        "timezone": "UTC-10:08",
+        "id": 127,
+        "country_id": 43
+    },
+    {
+        "name": "Central Denmark Region",
+        "latitude": "56.30213900",
+        "longitude": "9.30277700",
+        "population": 5856209,
+        "timezone": "UTC+10:26",
+        "id": 128,
+        "country_id": 43
+    },
+    {
+        "name": "North Denmark Region",
+        "latitude": "56.83074160",
+        "longitude": "9.49305270",
+        "population": 3937839,
+        "timezone": "UTC-03:57",
+        "id": 129,
+        "country_id": 43
+    },
+    {
+        "name": "Ali Sabieh Region",
+        "latitude": "11.19289730",
+        "longitude": "42.94169800",
+        "population": 7851527,
+        "timezone": "UTC+05:48",
+        "id": 130,
+        "country_id": 44
+    },
+    {
+        "name": "Arta Region",
+        "latitude": "11.52555280",
+        "longitude": "42.84794740",
+        "population": 5764100,
+        "timezone": "UTC+05:29",
+        "id": 131,
+        "country_id": 44
+    },
+    {
+        "name": "Dikhil Region",
+        "latitude": "11.10543360",
+        "longitude": "42.37047440",
+        "population": 1479508,
+        "timezone": "UTC-10:03",
+        "id": 132,
+        "country_id": 44
+    },
+    {
+        "name": "Saint Andrew Parish",
+        "latitude": null,
+        "longitude": null,
+        "population": 1514541,
+        "timezone": "UTC+08:13",
+        "id": 133,
+        "country_id": 45
+    },
+    {
+        "name": "Saint David Parish",
+        "latitude": null,
+        "longitude": null,
+        "population": 6412462,
+        "timezone": "UTC+04:05",
+        "id": 134,
+        "country_id": 45
+    },
+    {
+        "name": "Saint George Parish",
+        "latitude": null,
+        "longitude": null,
+        "population": 4108186,
+        "timezone": "UTC-11:37",
+        "id": 135,
+        "country_id": 45
+    },
+    {
+        "name": "Azua Province",
+        "latitude": "18.45527090",
+        "longitude": "-70.73809280",
+        "population": 8045904,
+        "timezone": "UTC+10:12",
+        "id": 136,
+        "country_id": 46
+    },
+    {
+        "name": "Baoruco Province",
+        "latitude": "18.48798980",
+        "longitude": "-71.41822490",
+        "population": 7341784,
+        "timezone": "UTC+10:25",
+        "id": 137,
+        "country_id": 46
+    },
+    {
+        "name": "Barahona Province",
+        "latitude": "18.21390660",
+        "longitude": "-71.10437590",
+        "population": 9735827,
+        "timezone": "UTC-02:17",
+        "id": 138,
+        "country_id": 46
+    },
+    {
+        "name": "Azuay",
+        "latitude": "-2.89430680",
+        "longitude": "-78.99683440",
+        "population": 4349709,
+        "timezone": "UTC-05:03",
+        "id": 139,
+        "country_id": 47
+    },
+    {
+        "name": "Bol\u00edvar",
+        "latitude": "-1.70958280",
+        "longitude": "-79.04504290",
+        "population": 4503757,
+        "timezone": "UTC+05:50",
+        "id": 140,
+        "country_id": 47
+    },
+    {
+        "name": "Ca\u00f1ar",
+        "latitude": "-2.55893150",
+        "longitude": "-78.93881910",
+        "population": 6897591,
+        "timezone": "UTC+11:25",
+        "id": 141,
+        "country_id": 47
+    },
+    {
+        "name": "Alexandria",
+        "latitude": "30.87605680",
+        "longitude": "29.74260400",
+        "population": 1265585,
+        "timezone": "UTC-09:16",
+        "id": 142,
+        "country_id": 48
+    },
+    {
+        "name": "Aswan",
+        "latitude": "23.69664980",
+        "longitude": "32.71813750",
+        "population": 4959058,
+        "timezone": "UTC+10:00",
+        "id": 143,
+        "country_id": 48
+    },
+    {
+        "name": "Asyut",
+        "latitude": "27.21338310",
+        "longitude": "31.44561790",
+        "population": 3920851,
+        "timezone": "UTC+04:58",
+        "id": 144,
+        "country_id": 48
+    },
+    {
+        "name": "Ahuachap\u00e1n Department",
+        "latitude": "13.82161480",
+        "longitude": "-89.92532330",
+        "population": 2772772,
+        "timezone": "UTC-11:08",
+        "id": 145,
+        "country_id": 49
+    },
+    {
+        "name": "Caba\u00f1as Department",
+        "latitude": "13.86482880",
+        "longitude": "-88.74939980",
+        "population": 5003239,
+        "timezone": "UTC-02:21",
+        "id": 146,
+        "country_id": 49
+    },
+    {
+        "name": "Chalatenango Department",
+        "latitude": "14.19166480",
+        "longitude": "-89.17059980",
+        "population": 6181375,
+        "timezone": "UTC-03:55",
+        "id": 147,
+        "country_id": 49
+    },
+    {
+        "name": "Harju County",
+        "latitude": "59.33342390",
+        "longitude": "25.24669740",
+        "population": 7024867,
+        "timezone": "UTC+03:45",
+        "id": 148,
+        "country_id": 50
+    },
+    {
+        "name": "Hiiu County",
+        "latitude": "58.92395530",
+        "longitude": "22.59194680",
+        "population": 7834317,
+        "timezone": "UTC+11:04",
+        "id": 149,
+        "country_id": 50
+    },
+    {
+        "name": "Ida-Viru County",
+        "latitude": "59.25926630",
+        "longitude": "27.41365350",
+        "population": 3345601,
+        "timezone": "UTC+09:46",
+        "id": 150,
+        "country_id": 50
+    },
+    {
+        "name": "Hhohho District",
+        "latitude": "-26.13656620",
+        "longitude": "31.35416310",
+        "population": 2608222,
+        "timezone": "UTC+01:00",
+        "id": 151,
+        "country_id": 51
+    },
+    {
+        "name": "Lubombo District",
+        "latitude": "-26.78517730",
+        "longitude": "31.81070790",
+        "population": 6122234,
+        "timezone": "UTC-01:23",
+        "id": 152,
+        "country_id": 51
+    },
+    {
+        "name": "Manzini District",
+        "latitude": "-26.50819990",
+        "longitude": "31.37131640",
+        "population": 3344852,
+        "timezone": "UTC+06:11",
+        "id": 153,
+        "country_id": 51
+    },
+    {
+        "name": "Addis Ababa",
+        "latitude": "8.98060340",
+        "longitude": "38.75776050",
+        "population": 9437191,
+        "timezone": "UTC-05:59",
+        "id": 154,
+        "country_id": 52
+    },
+    {
+        "name": "Afar Region",
+        "latitude": "11.75593880",
+        "longitude": "40.95868800",
+        "population": 1694176,
+        "timezone": "UTC-04:48",
+        "id": 155,
+        "country_id": 52
+    },
+    {
+        "name": "Amhara Region",
+        "latitude": "11.34942470",
+        "longitude": "37.97845850",
+        "population": 8938632,
+        "timezone": "UTC+12:49",
+        "id": 156,
+        "country_id": 52
+    },
+    {
+        "name": "\u00c5land Islands",
+        "latitude": "60.17852470",
+        "longitude": "19.91561050",
+        "population": 1937949,
+        "timezone": "UTC+03:04",
+        "id": 157,
+        "country_id": 53
+    },
+    {
+        "name": "Central Finland",
+        "latitude": "62.56667430",
+        "longitude": "25.55494450",
+        "population": 4848780,
+        "timezone": "UTC-05:04",
+        "id": 158,
+        "country_id": 53
+    },
+    {
+        "name": "Central Ostrobothnia",
+        "latitude": "63.56217350",
+        "longitude": "24.00136310",
+        "population": 1714826,
+        "timezone": "UTC-09:34",
+        "id": 159,
+        "country_id": 53
+    },
+    {
+        "name": "Ain",
+        "latitude": "46.06508600",
+        "longitude": "4.88861500",
+        "population": 6891705,
+        "timezone": "UTC-05:40",
+        "id": 160,
+        "country_id": 54
+    },
+    {
+        "name": "Aisne",
+        "latitude": "49.45289210",
+        "longitude": "3.04651110",
+        "population": 4696292,
+        "timezone": "UTC-05:56",
+        "id": 161,
+        "country_id": 54
+    },
+    {
+        "name": "Allier",
+        "latitude": "46.36708630",
+        "longitude": "2.58082770",
+        "population": 5864925,
+        "timezone": "UTC+02:23",
+        "id": 162,
+        "country_id": 54
+    },
+    {
+        "name": "Estuaire Province",
+        "latitude": "0.44328640",
+        "longitude": "10.08072980",
+        "population": 3929101,
+        "timezone": "UTC-08:03",
+        "id": 163,
+        "country_id": 55
+    },
+    {
+        "name": "Haut-Ogoou\u00e9 Province",
+        "latitude": "-1.47625440",
+        "longitude": "13.91439900",
+        "population": 8645353,
+        "timezone": "UTC+04:06",
+        "id": 164,
+        "country_id": 55
+    },
+    {
+        "name": "Moyen-Ogoou\u00e9 Province",
+        "latitude": "-0.44278400",
+        "longitude": "10.43965600",
+        "population": 5781252,
+        "timezone": "UTC-08:43",
+        "id": 165,
+        "country_id": 55
+    },
+    {
+        "name": "Abkhazia",
+        "latitude": "43.00155440",
+        "longitude": "41.02340700",
+        "population": 3253238,
+        "timezone": "UTC-05:56",
+        "id": 166,
+        "country_id": 56
+    },
+    {
+        "name": "Adjara",
+        "latitude": "41.60056260",
+        "longitude": "42.06883830",
+        "population": 3112324,
+        "timezone": "UTC-02:11",
+        "id": 167,
+        "country_id": 56
+    },
+    {
+        "name": "Guria",
+        "latitude": "41.94427360",
+        "longitude": "42.04580910",
+        "population": 4723986,
+        "timezone": "UTC+06:06",
+        "id": 168,
+        "country_id": 56
+    },
+    {
+        "name": "Baden-W\u00fcrttemberg",
+        "latitude": "48.66160370",
+        "longitude": "9.35013360",
+        "population": 9856789,
+        "timezone": "UTC+12:10",
+        "id": 169,
+        "country_id": 57
+    },
+    {
+        "name": "Bavaria",
+        "latitude": "48.79044720",
+        "longitude": "11.49788950",
+        "population": 7392569,
+        "timezone": "UTC+11:12",
+        "id": 170,
+        "country_id": 57
+    },
+    {
+        "name": "Berlin",
+        "latitude": "52.52000660",
+        "longitude": "13.40495400",
+        "population": 9880658,
+        "timezone": "UTC+02:09",
+        "id": 171,
+        "country_id": 57
+    },
+    {
+        "name": "Ahafo",
+        "latitude": "7.58213720",
+        "longitude": "-2.54974630",
+        "population": 8118880,
+        "timezone": "UTC+01:05",
+        "id": 172,
+        "country_id": 58
+    },
+    {
+        "name": "Ashanti",
+        "latitude": "6.74704360",
+        "longitude": "-1.52086240",
+        "population": 9052344,
+        "timezone": "UTC-11:47",
+        "id": 173,
+        "country_id": 58
+    },
+    {
+        "name": "Bono",
+        "latitude": "7.65000000",
+        "longitude": "-2.50000000",
+        "population": 9153934,
+        "timezone": "UTC+01:49",
+        "id": 174,
+        "country_id": 58
+    },
+    {
+        "name": "Achaea Regional Unit",
+        "latitude": "38.11587290",
+        "longitude": "21.95224910",
+        "population": 2670743,
+        "timezone": "UTC-07:03",
+        "id": 175,
+        "country_id": 59
+    },
+    {
+        "name": "Aetolia-Acarnania Regional Unit",
+        "latitude": "38.70843860",
+        "longitude": "21.37989280",
+        "population": 8846020,
+        "timezone": "UTC+06:00",
+        "id": 176,
+        "country_id": 59
+    },
+    {
+        "name": "Arcadia Prefecture",
+        "latitude": "37.55578250",
+        "longitude": "22.33377690",
+        "population": 6930847,
+        "timezone": "UTC-10:27",
+        "id": 177,
+        "country_id": 59
+    },
+    {
+        "name": "Carriacou and Petite Martinique",
+        "latitude": "12.47858880",
+        "longitude": "-61.44938420",
+        "population": 9588446,
+        "timezone": "UTC+07:47",
+        "id": 178,
+        "country_id": 60
+    },
+    {
+        "name": "Saint Andrew Parish",
+        "latitude": null,
+        "longitude": null,
+        "population": 5241105,
+        "timezone": "UTC-10:48",
+        "id": 179,
+        "country_id": 60
+    },
+    {
+        "name": "Saint David Parish",
+        "latitude": null,
+        "longitude": null,
+        "population": 4518988,
+        "timezone": "UTC+08:21",
+        "id": 180,
+        "country_id": 60
+    },
+    {
+        "name": "Alta Verapaz Department",
+        "latitude": "15.59428830",
+        "longitude": "-90.14949880",
+        "population": 9180329,
+        "timezone": "UTC+03:29",
+        "id": 181,
+        "country_id": 61
+    },
+    {
+        "name": "Baja Verapaz Department",
+        "latitude": "15.12558670",
+        "longitude": "-90.37483540",
+        "population": 5547335,
+        "timezone": "UTC+07:38",
+        "id": 182,
+        "country_id": 61
+    },
+    {
+        "name": "Chimaltenango Department",
+        "latitude": "14.56347870",
+        "longitude": "-90.98206680",
+        "population": 2402415,
+        "timezone": "UTC-09:36",
+        "id": 183,
+        "country_id": 61
+    },
+    {
+        "name": "Beyla Prefecture",
+        "latitude": "8.91981780",
+        "longitude": "-8.30884410",
+        "population": 8762994,
+        "timezone": "UTC+08:51",
+        "id": 184,
+        "country_id": 62
+    },
+    {
+        "name": "Boffa Prefecture",
+        "latitude": "10.18082540",
+        "longitude": "-14.03916150",
+        "population": 9256950,
+        "timezone": "UTC-06:00",
+        "id": 185,
+        "country_id": 62
+    },
+    {
+        "name": "Bok\u00e9 Prefecture",
+        "latitude": "11.08473790",
+        "longitude": "-14.37919120",
+        "population": 8092624,
+        "timezone": "UTC+11:12",
+        "id": 186,
+        "country_id": 62
+    },
+    {
+        "name": "Barima-Waini",
+        "latitude": "7.48824190",
+        "longitude": "-59.65644940",
+        "population": 7279731,
+        "timezone": "UTC-06:33",
+        "id": 187,
+        "country_id": 63
+    },
+    {
+        "name": "Cuyuni-Mazaruni",
+        "latitude": "6.46421410",
+        "longitude": "-60.21107520",
+        "population": 3611120,
+        "timezone": "UTC+02:47",
+        "id": 188,
+        "country_id": 63
+    },
+    {
+        "name": "Demerara-Mahaica",
+        "latitude": "6.54642600",
+        "longitude": "-58.09820460",
+        "population": 6866562,
+        "timezone": "UTC+03:09",
+        "id": 189,
+        "country_id": 63
+    },
+    {
+        "name": "Artibonite",
+        "latitude": "19.36290200",
+        "longitude": "-72.42581450",
+        "population": 8959160,
+        "timezone": "UTC+12:35",
+        "id": 190,
+        "country_id": 64
+    },
+    {
+        "name": "Centre",
+        "latitude": "32.83702510",
+        "longitude": "-96.77738820",
+        "population": 7017228,
+        "timezone": "UTC+07:43",
+        "id": 191,
+        "country_id": 64
+    },
+    {
+        "name": "Grand'Anse",
+        "latitude": "12.01666670",
+        "longitude": "-61.76666670",
+        "population": 6842245,
+        "timezone": "UTC+11:20",
+        "id": 192,
+        "country_id": 64
+    },
+    {
+        "name": "Atl\u00e1ntida Department",
+        "latitude": "15.66962830",
+        "longitude": "-87.14228950",
+        "population": 9692677,
+        "timezone": "UTC+01:16",
+        "id": 193,
+        "country_id": 65
+    },
+    {
+        "name": "Bay Islands Department",
+        "latitude": "16.48266140",
+        "longitude": "-85.87932520",
+        "population": 3924456,
+        "timezone": "UTC-11:53",
+        "id": 194,
+        "country_id": 65
+    },
+    {
+        "name": "Choluteca Department",
+        "latitude": "13.25043250",
+        "longitude": "-87.14228950",
+        "population": 2177410,
+        "timezone": "UTC+10:51",
+        "id": 195,
+        "country_id": 65
+    },
+    {
+        "name": "B\u00e1cs-Kiskun",
+        "latitude": "46.56614370",
+        "longitude": "19.42724640",
+        "population": 6067616,
+        "timezone": "UTC-12:58",
+        "id": 196,
+        "country_id": 66
+    },
+    {
+        "name": "Baranya",
+        "latitude": "46.04845850",
+        "longitude": "18.27191730",
+        "population": 6966181,
+        "timezone": "UTC-10:34",
+        "id": 197,
+        "country_id": 66
+    },
+    {
+        "name": "B\u00e9k\u00e9s",
+        "latitude": "46.67048990",
+        "longitude": "21.04349960",
+        "population": 9192219,
+        "timezone": "UTC+03:11",
+        "id": 198,
+        "country_id": 66
+    },
+    {
+        "name": "Capital Region",
+        "latitude": "38.56569570",
+        "longitude": "-92.18169490",
+        "population": 9681297,
+        "timezone": "UTC-11:04",
+        "id": 199,
+        "country_id": 67
+    },
+    {
+        "name": "Eastern Region",
+        "latitude": null,
+        "longitude": null,
+        "population": 5017524,
+        "timezone": "UTC+10:36",
+        "id": 200,
+        "country_id": 67
+    },
+    {
+        "name": "Northeastern Region",
+        "latitude": "43.29942850",
+        "longitude": "-74.21793260",
+        "population": 7202292,
+        "timezone": "UTC-08:46",
+        "id": 201,
+        "country_id": 67
+    },
+    {
+        "name": "Andaman and Nicobar Islands",
+        "latitude": "11.74008670",
+        "longitude": "92.65864010",
+        "population": 3171349,
+        "timezone": "UTC+08:55",
+        "id": 202,
+        "country_id": 68
+    },
+    {
+        "name": "Andhra Pradesh",
+        "latitude": "15.91289980",
+        "longitude": "79.73998750",
+        "population": 4709993,
+        "timezone": "UTC+07:25",
+        "id": 203,
+        "country_id": 68
+    },
+    {
+        "name": "Arunachal Pradesh",
+        "latitude": "28.21799940",
+        "longitude": "94.72775280",
+        "population": 3681158,
+        "timezone": "UTC-04:15",
+        "id": 204,
+        "country_id": 68
+    },
+    {
+        "name": "Aceh",
+        "latitude": "4.69513500",
+        "longitude": "96.74939930",
+        "population": 2492232,
+        "timezone": "UTC+01:30",
+        "id": 205,
+        "country_id": 69
+    },
+    {
+        "name": "Bali",
+        "latitude": "-8.34053890",
+        "longitude": "115.09195090",
+        "population": 6666942,
+        "timezone": "UTC-01:41",
+        "id": 206,
+        "country_id": 69
+    },
+    {
+        "name": "Banten",
+        "latitude": "-6.40581720",
+        "longitude": "106.06401790",
+        "population": 9968985,
+        "timezone": "UTC+10:29",
+        "id": 207,
+        "country_id": 69
+    },
+    {
+        "name": "Alborz",
+        "latitude": "35.99604670",
+        "longitude": "50.92892460",
+        "population": 6467821,
+        "timezone": "UTC-01:06",
+        "id": 208,
+        "country_id": 70
+    },
+    {
+        "name": "Ardabil",
+        "latitude": "38.48532760",
+        "longitude": "47.89112090",
+        "population": 9935294,
+        "timezone": "UTC-09:15",
+        "id": 209,
+        "country_id": 70
+    },
+    {
+        "name": "Bushehr",
+        "latitude": "28.76207390",
+        "longitude": "51.51500770",
+        "population": 5134910,
+        "timezone": "UTC+04:20",
+        "id": 210,
+        "country_id": 70
+    },
+    {
+        "name": "Al Anbar",
+        "latitude": "32.55976140",
+        "longitude": "41.91964710",
+        "population": 4308506,
+        "timezone": "UTC+09:00",
+        "id": 211,
+        "country_id": 71
+    },
+    {
+        "name": "Al Muthanna",
+        "latitude": "29.91331710",
+        "longitude": "45.29938620",
+        "population": 5980560,
+        "timezone": "UTC-10:18",
+        "id": 212,
+        "country_id": 71
+    },
+    {
+        "name": "Al-Q\u0101disiyyah",
+        "latitude": "32.04369100",
+        "longitude": "45.14945050",
+        "population": 1848818,
+        "timezone": "UTC+08:24",
+        "id": 213,
+        "country_id": 71
+    },
+    {
+        "name": "Carlow",
+        "latitude": "52.72322170",
+        "longitude": "-6.81082950",
+        "population": 2555033,
+        "timezone": "UTC+02:32",
+        "id": 214,
+        "country_id": 72
+    },
+    {
+        "name": "Cavan",
+        "latitude": "53.97654240",
+        "longitude": "-7.29966230",
+        "population": 1303161,
+        "timezone": "UTC-11:43",
+        "id": 215,
+        "country_id": 72
+    },
+    {
+        "name": "Clare",
+        "latitude": "43.04664000",
+        "longitude": "-87.89958100",
+        "population": 7588860,
+        "timezone": "UTC-09:23",
+        "id": 216,
+        "country_id": 72
+    },
+    {
+        "name": "Central District",
+        "latitude": "47.60875830",
+        "longitude": "-122.29642350",
+        "population": 9994830,
+        "timezone": "UTC+12:09",
+        "id": 217,
+        "country_id": 73
+    },
+    {
+        "name": "Haifa District",
+        "latitude": "32.48141110",
+        "longitude": "34.99475100",
+        "population": 6007933,
+        "timezone": "UTC+09:54",
+        "id": 218,
+        "country_id": 73
+    },
+    {
+        "name": "Jerusalem District",
+        "latitude": "31.76482430",
+        "longitude": "34.99475100",
+        "population": 2671354,
+        "timezone": "UTC-05:58",
+        "id": 219,
+        "country_id": 73
+    },
+    {
+        "name": "Abruzzo",
+        "latitude": "42.19201190",
+        "longitude": "13.72891670",
+        "population": 1208053,
+        "timezone": "UTC+04:41",
+        "id": 220,
+        "country_id": 74
+    },
+    {
+        "name": "Agrigento",
+        "latitude": "37.31052020",
+        "longitude": "13.58579780",
+        "population": 8219793,
+        "timezone": "UTC+12:29",
+        "id": 221,
+        "country_id": 74
+    },
+    {
+        "name": "Alessandria",
+        "latitude": "44.81755870",
+        "longitude": "8.70466270",
+        "population": 4463695,
+        "timezone": "UTC+12:25",
+        "id": 222,
+        "country_id": 74
+    },
+    {
+        "name": "Clarendon Parish",
+        "latitude": "17.95571830",
+        "longitude": "-77.24051530",
+        "population": 6608857,
+        "timezone": "UTC+07:54",
+        "id": 223,
+        "country_id": 75
+    },
+    {
+        "name": "Hanover Parish",
+        "latitude": "18.40977070",
+        "longitude": "-78.13363800",
+        "population": 5312308,
+        "timezone": "UTC-07:06",
+        "id": 224,
+        "country_id": 75
+    },
+    {
+        "name": "Kingston Parish",
+        "latitude": "17.96832710",
+        "longitude": "-76.78270200",
+        "population": 4957265,
+        "timezone": "UTC-10:19",
+        "id": 225,
+        "country_id": 75
+    },
+    {
+        "name": "Aichi Prefecture",
+        "latitude": "35.01825050",
+        "longitude": "137.29238930",
+        "population": 2286167,
+        "timezone": "UTC+09:08",
+        "id": 226,
+        "country_id": 76
+    },
+    {
+        "name": "Akita Prefecture",
+        "latitude": "40.13762930",
+        "longitude": "140.33434100",
+        "population": 8846250,
+        "timezone": "UTC+07:33",
+        "id": 227,
+        "country_id": 76
+    },
+    {
+        "name": "Aomori Prefecture",
+        "latitude": "40.76570770",
+        "longitude": "140.91758790",
+        "population": 3295134,
+        "timezone": "UTC-03:01",
+        "id": 228,
+        "country_id": 76
+    },
+    {
+        "name": "Ajloun",
+        "latitude": "32.33255840",
+        "longitude": "35.75168440",
+        "population": 5226753,
+        "timezone": "UTC-07:21",
+        "id": 229,
+        "country_id": 77
+    },
+    {
+        "name": "Amman",
+        "latitude": "31.94536330",
+        "longitude": "35.92838950",
+        "population": 8925404,
+        "timezone": "UTC-04:23",
+        "id": 230,
+        "country_id": 77
+    },
+    {
+        "name": "Aqaba",
+        "latitude": "29.53208600",
+        "longitude": "35.00628210",
+        "population": 5541006,
+        "timezone": "UTC+09:20",
+        "id": 231,
+        "country_id": 77
+    },
+    {
+        "name": "Akmola Region",
+        "latitude": "51.91653200",
+        "longitude": "69.41104940",
+        "population": 6525568,
+        "timezone": "UTC+00:09",
+        "id": 232,
+        "country_id": 78
+    },
+    {
+        "name": "Aktobe Region",
+        "latitude": "48.77970780",
+        "longitude": "57.99743780",
+        "population": 9104940,
+        "timezone": "UTC-04:36",
+        "id": 233,
+        "country_id": 78
+    },
+    {
+        "name": "Almaty",
+        "latitude": "43.22201460",
+        "longitude": "76.85124850",
+        "population": 9359787,
+        "timezone": "UTC+12:50",
+        "id": 234,
+        "country_id": 78
+    },
+    {
+        "name": "Baringo",
+        "latitude": "0.85549880",
+        "longitude": "36.08934060",
+        "population": 9369409,
+        "timezone": "UTC+00:29",
+        "id": 235,
+        "country_id": 79
+    },
+    {
+        "name": "Bomet",
+        "latitude": "-0.80150090",
+        "longitude": "35.30272260",
+        "population": 5137601,
+        "timezone": "UTC+04:08",
+        "id": 236,
+        "country_id": 79
+    },
+    {
+        "name": "Bungoma",
+        "latitude": "0.56952520",
+        "longitude": "34.55837660",
+        "population": 7742695,
+        "timezone": "UTC-01:14",
+        "id": 237,
+        "country_id": 79
+    },
+    {
+        "name": "Al Ahmadi",
+        "latitude": "28.57451250",
+        "longitude": "48.10247430",
+        "population": 3278023,
+        "timezone": "UTC-08:12",
+        "id": 238,
+        "country_id": 80
+    },
+    {
+        "name": "Al Farwaniyah",
+        "latitude": "29.27335700",
+        "longitude": "47.94001540",
+        "population": 8651168,
+        "timezone": "UTC+11:56",
+        "id": 239,
+        "country_id": 80
+    },
+    {
+        "name": "Al Jahra",
+        "latitude": "29.99318310",
+        "longitude": "47.76347310",
+        "population": 1847098,
+        "timezone": "UTC-01:52",
+        "id": 240,
+        "country_id": 80
+    },
+    {
+        "name": "Batken Region",
+        "latitude": "39.97214250",
+        "longitude": "69.85974060",
+        "population": 8802576,
+        "timezone": "UTC+11:03",
+        "id": 241,
+        "country_id": 81
+    },
+    {
+        "name": "Bishkek",
+        "latitude": "42.87462120",
+        "longitude": "74.56976170",
+        "population": 9704335,
+        "timezone": "UTC+06:55",
+        "id": 242,
+        "country_id": 81
+    },
+    {
+        "name": "Chuy Region",
+        "latitude": "42.56550000",
+        "longitude": "74.40566120",
+        "population": 6676576,
+        "timezone": "UTC-06:16",
+        "id": 243,
+        "country_id": 81
+    },
+    {
+        "name": "Attapeu Province",
+        "latitude": "14.93634000",
+        "longitude": "107.10119310",
+        "population": 9573923,
+        "timezone": "UTC-12:48",
+        "id": 244,
+        "country_id": 82
+    },
+    {
+        "name": "Bokeo Province",
+        "latitude": "20.28726620",
+        "longitude": "100.70978670",
+        "population": 5120563,
+        "timezone": "UTC-01:55",
+        "id": 245,
+        "country_id": 82
+    },
+    {
+        "name": "Bolikhamsai Province",
+        "latitude": "18.43629240",
+        "longitude": "104.47233010",
+        "population": 4753556,
+        "timezone": "UTC-06:35",
+        "id": 246,
+        "country_id": 82
+    },
+    {
+        "name": "Aglona Municipality",
+        "latitude": "56.10890060",
+        "longitude": "27.12862270",
+        "population": 7079537,
+        "timezone": "UTC-01:00",
+        "id": 247,
+        "country_id": 83
+    },
+    {
+        "name": "Aizkraukle Municipality",
+        "latitude": "56.64610800",
+        "longitude": "25.23708540",
+        "population": 8240913,
+        "timezone": "UTC-12:02",
+        "id": 248,
+        "country_id": 83
+    },
+    {
+        "name": "Aizpute Municipality",
+        "latitude": "56.71825960",
+        "longitude": "21.60727590",
+        "population": 3909582,
+        "timezone": "UTC-12:00",
+        "id": 249,
+        "country_id": 83
+    },
+    {
+        "name": "Akkar",
+        "latitude": "34.53287630",
+        "longitude": "36.13281320",
+        "population": 1497023,
+        "timezone": "UTC-02:19",
+        "id": 250,
+        "country_id": 84
+    },
+    {
+        "name": "Baalbek-Hermel",
+        "latitude": "34.26585560",
+        "longitude": "36.34980970",
+        "population": 4448504,
+        "timezone": "UTC-03:00",
+        "id": 251,
+        "country_id": 84
+    },
+    {
+        "name": "Beirut",
+        "latitude": "33.88861060",
+        "longitude": "35.49547720",
+        "population": 4505897,
+        "timezone": "UTC-08:02",
+        "id": 252,
+        "country_id": 84
+    },
+    {
+        "name": "Berea District",
+        "latitude": "41.36616140",
+        "longitude": "-81.85430260",
+        "population": 1701725,
+        "timezone": "UTC-09:06",
+        "id": 253,
+        "country_id": 85
+    },
+    {
+        "name": "Butha-Buthe District",
+        "latitude": "-28.76537540",
+        "longitude": "28.24681480",
+        "population": 4037467,
+        "timezone": "UTC-08:24",
+        "id": 254,
+        "country_id": 85
+    },
+    {
+        "name": "Leribe District",
+        "latitude": "-28.86380650",
+        "longitude": "28.04788260",
+        "population": 2007343,
+        "timezone": "UTC-02:10",
+        "id": 255,
+        "country_id": 85
+    },
+    {
+        "name": "Bomi County",
+        "latitude": "6.75629260",
+        "longitude": "-10.84514670",
+        "population": 4981538,
+        "timezone": "UTC+03:47",
+        "id": 256,
+        "country_id": 86
+    },
+    {
+        "name": "Bong County",
+        "latitude": "6.82950190",
+        "longitude": "-9.36730840",
+        "population": 5061251,
+        "timezone": "UTC+01:23",
+        "id": 257,
+        "country_id": 86
+    },
+    {
+        "name": "Gbarpolu County",
+        "latitude": "7.49526370",
+        "longitude": "-10.08072980",
+        "population": 5619546,
+        "timezone": "UTC-10:11",
+        "id": 258,
+        "country_id": 86
+    },
+    {
+        "name": "Al Wahat District",
+        "latitude": "29.04668080",
+        "longitude": "21.85685860",
+        "population": 5085789,
+        "timezone": "UTC+01:55",
+        "id": 259,
+        "country_id": 87
+    },
+    {
+        "name": "Benghazi",
+        "latitude": "32.11942420",
+        "longitude": "20.08679090",
+        "population": 3623841,
+        "timezone": "UTC+01:27",
+        "id": 260,
+        "country_id": 87
+    },
+    {
+        "name": "Derna District",
+        "latitude": "32.75561300",
+        "longitude": "22.63774320",
+        "population": 5738062,
+        "timezone": "UTC-10:08",
+        "id": 261,
+        "country_id": 87
+    },
+    {
+        "name": "Akmen\u0117 District Municipality",
+        "latitude": "56.24550290",
+        "longitude": "22.74711690",
+        "population": 4410017,
+        "timezone": "UTC-05:52",
+        "id": 262,
+        "country_id": 88
+    },
+    {
+        "name": "Alytus City Municipality",
+        "latitude": "54.39629380",
+        "longitude": "24.04587610",
+        "population": 1762054,
+        "timezone": "UTC-11:50",
+        "id": 263,
+        "country_id": 88
+    },
+    {
+        "name": "Alytus County",
+        "latitude": "54.20002140",
+        "longitude": "24.15126340",
+        "population": 7043523,
+        "timezone": "UTC-11:35",
+        "id": 264,
+        "country_id": 88
+    },
+    {
+        "name": "Canton of Capellen",
+        "latitude": "49.64039310",
+        "longitude": "5.95538460",
+        "population": 1680437,
+        "timezone": "UTC+02:24",
+        "id": 265,
+        "country_id": 89
+    },
+    {
+        "name": "Canton of Clervaux",
+        "latitude": "50.05463130",
+        "longitude": "6.02858750",
+        "population": 7970254,
+        "timezone": "UTC-04:36",
+        "id": 266,
+        "country_id": 89
+    },
+    {
+        "name": "Canton of Diekirch",
+        "latitude": "49.86717840",
+        "longitude": "6.15956330",
+        "population": 8738431,
+        "timezone": "UTC+11:57",
+        "id": 267,
+        "country_id": 89
+    },
+    {
+        "name": "Antananarivo Province",
+        "latitude": "-18.70514740",
+        "longitude": "46.82528380",
+        "population": 7028679,
+        "timezone": "UTC+10:14",
+        "id": 268,
+        "country_id": 90
+    },
+    {
+        "name": "Antsiranana Province",
+        "latitude": "-13.77153900",
+        "longitude": "49.52799960",
+        "population": 7284051,
+        "timezone": "UTC-07:06",
+        "id": 269,
+        "country_id": 90
+    },
+    {
+        "name": "Fianarantsoa Province",
+        "latitude": "-22.35362400",
+        "longitude": "46.82528380",
+        "population": 3794518,
+        "timezone": "UTC+09:30",
+        "id": 270,
+        "country_id": 90
+    },
+    {
+        "name": "Balaka District",
+        "latitude": "-15.05065950",
+        "longitude": "35.08285880",
+        "population": 9183515,
+        "timezone": "UTC-05:55",
+        "id": 271,
+        "country_id": 91
+    },
+    {
+        "name": "Blantyre District",
+        "latitude": "-15.67785410",
+        "longitude": "34.95066250",
+        "population": 6366045,
+        "timezone": "UTC-12:20",
+        "id": 272,
+        "country_id": 91
+    },
+    {
+        "name": "Central Region",
+        "latitude": null,
+        "longitude": null,
+        "population": 7532542,
+        "timezone": "UTC-05:19",
+        "id": 273,
+        "country_id": 91
+    },
+    {
+        "name": "Johor",
+        "latitude": "1.48536820",
+        "longitude": "103.76181540",
+        "population": 1434247,
+        "timezone": "UTC-09:25",
+        "id": 274,
+        "country_id": 92
+    },
+    {
+        "name": "Kedah",
+        "latitude": "6.11839640",
+        "longitude": "100.36845950",
+        "population": 8332061,
+        "timezone": "UTC+06:43",
+        "id": 275,
+        "country_id": 92
+    },
+    {
+        "name": "Kelantan",
+        "latitude": "6.12539690",
+        "longitude": "102.23807100",
+        "population": 7915962,
+        "timezone": "UTC+04:50",
+        "id": 276,
+        "country_id": 92
+    },
+    {
+        "name": "Addu Atoll",
+        "latitude": "-0.63009950",
+        "longitude": "73.15856260",
+        "population": 3751954,
+        "timezone": "UTC-03:45",
+        "id": 277,
+        "country_id": 93
+    },
+    {
+        "name": "Alif Alif Atoll",
+        "latitude": "4.08500000",
+        "longitude": "72.85154790",
+        "population": 1796546,
+        "timezone": "UTC-05:14",
+        "id": 278,
+        "country_id": 93
+    },
+    {
+        "name": "Alif Dhaal Atoll",
+        "latitude": "3.65433020",
+        "longitude": "72.80427970",
+        "population": 7258401,
+        "timezone": "UTC-09:29",
+        "id": 279,
+        "country_id": 93
+    },
+    {
+        "name": "Bamako",
+        "latitude": "12.63923160",
+        "longitude": "-8.00288920",
+        "population": 2845132,
+        "timezone": "UTC+10:03",
+        "id": 280,
+        "country_id": 94
+    },
+    {
+        "name": "Gao Region",
+        "latitude": "16.90663320",
+        "longitude": "1.52086240",
+        "population": 2314358,
+        "timezone": "UTC-05:10",
+        "id": 281,
+        "country_id": 94
+    },
+    {
+        "name": "Kayes Region",
+        "latitude": "14.08183080",
+        "longitude": "-9.90181310",
+        "population": 9425165,
+        "timezone": "UTC-04:17",
+        "id": 282,
+        "country_id": 94
+    },
+    {
+        "name": "Attard",
+        "latitude": "35.89049670",
+        "longitude": "14.41993220",
+        "population": 9081989,
+        "timezone": "UTC-05:12",
+        "id": 283,
+        "country_id": 95
+    },
+    {
+        "name": "Balzan",
+        "latitude": "35.89574140",
+        "longitude": "14.45340650",
+        "population": 3013893,
+        "timezone": "UTC-08:43",
+        "id": 284,
+        "country_id": 95
+    },
+    {
+        "name": "Birgu",
+        "latitude": "35.88792140",
+        "longitude": "14.52256200",
+        "population": 3640562,
+        "timezone": "UTC+09:23",
+        "id": 285,
+        "country_id": 95
+    },
+    {
+        "name": "Adrar",
+        "latitude": "19.86521760",
+        "longitude": "-12.80547530",
+        "population": 5128176,
+        "timezone": "UTC-10:53",
+        "id": 286,
+        "country_id": 96
+    },
+    {
+        "name": "Assaba",
+        "latitude": "16.77595580",
+        "longitude": "-11.52480550",
+        "population": 4479535,
+        "timezone": "UTC-05:14",
+        "id": 287,
+        "country_id": 96
+    },
+    {
+        "name": "Brakna",
+        "latitude": "17.23175610",
+        "longitude": "-13.17403480",
+        "population": 4449696,
+        "timezone": "UTC+07:01",
+        "id": 288,
+        "country_id": 96
+    },
+    {
+        "name": "Agalega Islands",
+        "latitude": "-10.40000000",
+        "longitude": "56.61666670",
+        "population": 2448525,
+        "timezone": "UTC-10:59",
+        "id": 289,
+        "country_id": 97
+    },
+    {
+        "name": "Black River",
+        "latitude": "-20.37084920",
+        "longitude": "57.39486490",
+        "population": 3519756,
+        "timezone": "UTC+01:03",
+        "id": 290,
+        "country_id": 97
+    },
+    {
+        "name": "Flacq",
+        "latitude": "-20.22578360",
+        "longitude": "57.71192740",
+        "population": 5400363,
+        "timezone": "UTC+10:03",
+        "id": 291,
+        "country_id": 97
+    },
+    {
+        "name": "Aguascalientes",
+        "latitude": "21.88525620",
+        "longitude": "-102.29156770",
+        "population": 9503451,
+        "timezone": "UTC-01:51",
+        "id": 292,
+        "country_id": 98
+    },
+    {
+        "name": "Baja California",
+        "latitude": "30.84063380",
+        "longitude": "-115.28375850",
+        "population": 1944714,
+        "timezone": "UTC+03:08",
+        "id": 293,
+        "country_id": 98
+    },
+    {
+        "name": "Baja California Sur",
+        "latitude": "26.04444460",
+        "longitude": "-111.66607250",
+        "population": 2215440,
+        "timezone": "UTC+04:42",
+        "id": 294,
+        "country_id": 98
+    },
+    {
+        "name": "Anenii Noi District",
+        "latitude": "46.87956630",
+        "longitude": "29.23121750",
+        "population": 8110240,
+        "timezone": "UTC+04:06",
+        "id": 295,
+        "country_id": 99
+    },
+    {
+        "name": "B\u0103l\u021bi Municipality",
+        "latitude": "47.75399470",
+        "longitude": "27.91841480",
+        "population": 8017683,
+        "timezone": "UTC-09:38",
+        "id": 296,
+        "country_id": 99
+    },
+    {
+        "name": "Basarabeasca District",
+        "latitude": "46.42370600",
+        "longitude": "28.89354920",
+        "population": 5585438,
+        "timezone": "UTC+03:10",
+        "id": 297,
+        "country_id": 99
+    },
+    {
+        "name": "La Colle",
+        "latitude": "43.73274650",
+        "longitude": "7.41372760",
+        "population": 5358126,
+        "timezone": "UTC+12:53",
+        "id": 298,
+        "country_id": 100
+    },
+    {
+        "name": "La Condamine",
+        "latitude": "43.73506650",
+        "longitude": "7.41990600",
+        "population": 3399428,
+        "timezone": "UTC-06:19",
+        "id": 299,
+        "country_id": 100
+    },
+    {
+        "name": "Moneghetti",
+        "latitude": "43.73649270",
+        "longitude": "7.41533830",
+        "population": 2233745,
+        "timezone": "UTC-05:13",
+        "id": 300,
+        "country_id": 100
+    },
+    {
+        "name": "Arkhangai Province",
+        "latitude": "47.89711010",
+        "longitude": "100.72401650",
+        "population": 4567228,
+        "timezone": "UTC-03:14",
+        "id": 301,
+        "country_id": 101
+    },
+    {
+        "name": "Bayan-\u00d6lgii Province",
+        "latitude": "48.39832540",
+        "longitude": "89.66259150",
+        "population": 1213256,
+        "timezone": "UTC+09:09",
+        "id": 302,
+        "country_id": 101
+    },
+    {
+        "name": "Bayankhongor Province",
+        "latitude": "45.15267070",
+        "longitude": "100.10736670",
+        "population": 6347967,
+        "timezone": "UTC+06:09",
+        "id": 303,
+        "country_id": 101
+    },
+    {
+        "name": "Andrijevica Municipality",
+        "latitude": "42.73624770",
+        "longitude": "19.78595560",
+        "population": 4104943,
+        "timezone": "UTC-11:17",
+        "id": 304,
+        "country_id": 102
+    },
+    {
+        "name": "Bar Municipality",
+        "latitude": "42.12781190",
+        "longitude": "19.14043800",
+        "population": 5957851,
+        "timezone": "UTC+01:09",
+        "id": 305,
+        "country_id": 102
+    },
+    {
+        "name": "Berane Municipality",
+        "latitude": "42.82572890",
+        "longitude": "19.90205090",
+        "population": 5908295,
+        "timezone": "UTC-07:29",
+        "id": 306,
+        "country_id": 102
+    },
+    {
+        "name": "Agadir-Ida-Ou-Tanane",
+        "latitude": "30.64620910",
+        "longitude": "-9.83390610",
+        "population": 6449265,
+        "timezone": "UTC+03:31",
+        "id": 307,
+        "country_id": 103
+    },
+    {
+        "name": "Al Haouz",
+        "latitude": "31.29567290",
+        "longitude": "-7.87216000",
+        "population": 4088885,
+        "timezone": "UTC-06:03",
+        "id": 308,
+        "country_id": 103
+    },
+    {
+        "name": "Al Hoce\u00efma",
+        "latitude": "35.24455890",
+        "longitude": "-3.93174680",
+        "population": 8838510,
+        "timezone": "UTC+04:55",
+        "id": 309,
+        "country_id": 103
+    },
+    {
+        "name": "Cabo Delgado Province",
+        "latitude": "-12.33354740",
+        "longitude": "39.32062410",
+        "population": 8413794,
+        "timezone": "UTC+09:39",
+        "id": 310,
+        "country_id": 104
+    },
+    {
+        "name": "Gaza Province",
+        "latitude": "-23.02219280",
+        "longitude": "32.71813750",
+        "population": 1566275,
+        "timezone": "UTC-01:24",
+        "id": 311,
+        "country_id": 104
+    },
+    {
+        "name": "Inhambane Province",
+        "latitude": "-22.85279970",
+        "longitude": "34.55087580",
+        "population": 1098557,
+        "timezone": "UTC+05:48",
+        "id": 312,
+        "country_id": 104
+    },
+    {
+        "name": "Ayeyarwady Region",
+        "latitude": "17.03421250",
+        "longitude": "95.22666750",
+        "population": 4077121,
+        "timezone": "UTC-07:22",
+        "id": 313,
+        "country_id": 105
+    },
+    {
+        "name": "Bago",
+        "latitude": "17.32207110",
+        "longitude": "96.46632860",
+        "population": 4861877,
+        "timezone": "UTC+10:57",
+        "id": 314,
+        "country_id": 105
+    },
+    {
+        "name": "Chin State",
+        "latitude": "22.00869780",
+        "longitude": "93.58126920",
+        "population": 8907676,
+        "timezone": "UTC-01:13",
+        "id": 315,
+        "country_id": 105
+    },
+    {
+        "name": "Erongo Region",
+        "latitude": "-22.25656820",
+        "longitude": "15.40680790",
+        "population": 3286321,
+        "timezone": "UTC+01:27",
+        "id": 316,
+        "country_id": 106
+    },
+    {
+        "name": "Hardap Region",
+        "latitude": "-24.23101340",
+        "longitude": "17.66888700",
+        "population": 9855397,
+        "timezone": "UTC-08:12",
+        "id": 317,
+        "country_id": 106
+    },
+    {
+        "name": "Karas Region",
+        "latitude": "-26.84296450",
+        "longitude": "17.29028390",
+        "population": 8853599,
+        "timezone": "UTC+05:37",
+        "id": 318,
+        "country_id": 106
+    },
+    {
+        "name": "Bagmati Zone",
+        "latitude": "28.03675770",
+        "longitude": "85.43755740",
+        "population": 1242327,
+        "timezone": "UTC-08:52",
+        "id": 319,
+        "country_id": 107
+    },
+    {
+        "name": "Bheri Zone",
+        "latitude": "28.51745600",
+        "longitude": "81.77870210",
+        "population": 4257656,
+        "timezone": "UTC+04:22",
+        "id": 320,
+        "country_id": 107
+    },
+    {
+        "name": "Central Region",
+        "latitude": null,
+        "longitude": null,
+        "population": 4414859,
+        "timezone": "UTC-02:54",
+        "id": 321,
+        "country_id": 107
+    },
+    {
+        "name": "Bonaire",
+        "latitude": "12.20189020",
+        "longitude": "-68.26238220",
+        "population": 6328736,
+        "timezone": "UTC-08:30",
+        "id": 322,
+        "country_id": 108
+    },
+    {
+        "name": "Drenthe",
+        "latitude": "52.94760120",
+        "longitude": "6.62305860",
+        "population": 7973318,
+        "timezone": "UTC-03:48",
+        "id": 323,
+        "country_id": 108
+    },
+    {
+        "name": "Flevoland",
+        "latitude": "52.52797810",
+        "longitude": "5.59535080",
+        "population": 2672511,
+        "timezone": "UTC-06:48",
+        "id": 324,
+        "country_id": 108
+    },
+    {
+        "name": "Auckland Region",
+        "latitude": "-36.66753280",
+        "longitude": "174.77333250",
+        "population": 1185913,
+        "timezone": "UTC-11:38",
+        "id": 325,
+        "country_id": 109
+    },
+    {
+        "name": "Bay of Plenty Region",
+        "latitude": "-37.42339170",
+        "longitude": "176.74163740",
+        "population": 9164348,
+        "timezone": "UTC+08:49",
+        "id": 326,
+        "country_id": 109
+    },
+    {
+        "name": "Canterbury Region",
+        "latitude": "-43.75422750",
+        "longitude": "171.16372450",
+        "population": 9605616,
+        "timezone": "UTC-08:50",
+        "id": 327,
+        "country_id": 109
+    },
+    {
+        "name": "Boaco",
+        "latitude": "12.46928400",
+        "longitude": "-85.66146820",
+        "population": 6862746,
+        "timezone": "UTC+12:49",
+        "id": 328,
+        "country_id": 110
+    },
+    {
+        "name": "Carazo",
+        "latitude": "11.72747290",
+        "longitude": "-86.21584970",
+        "population": 9417157,
+        "timezone": "UTC+08:16",
+        "id": 329,
+        "country_id": 110
+    },
+    {
+        "name": "Chinandega",
+        "latitude": "12.88200620",
+        "longitude": "-87.14228950",
+        "population": 7720431,
+        "timezone": "UTC+08:32",
+        "id": 330,
+        "country_id": 110
+    },
+    {
+        "name": "Agadez Region",
+        "latitude": "20.66707520",
+        "longitude": "12.07182810",
+        "population": 9790536,
+        "timezone": "UTC-11:07",
+        "id": 331,
+        "country_id": 111
+    },
+    {
+        "name": "Diffa Region",
+        "latitude": "13.67686470",
+        "longitude": "12.71351210",
+        "population": 6643614,
+        "timezone": "UTC+02:07",
+        "id": 332,
+        "country_id": 111
+    },
+    {
+        "name": "Dosso Region",
+        "latitude": "13.15139470",
+        "longitude": "3.41955270",
+        "population": 8632754,
+        "timezone": "UTC-09:55",
+        "id": 333,
+        "country_id": 111
+    },
+    {
+        "name": "Abia",
+        "latitude": "5.45273540",
+        "longitude": "7.52484140",
+        "population": 2307869,
+        "timezone": "UTC+06:40",
+        "id": 334,
+        "country_id": 112
+    },
+    {
+        "name": "Abuja Federal Capital Territory",
+        "latitude": "8.89406910",
+        "longitude": "7.18604020",
+        "population": 7446953,
+        "timezone": "UTC-03:02",
+        "id": 335,
+        "country_id": 112
+    },
+    {
+        "name": "Adamawa",
+        "latitude": "9.32647510",
+        "longitude": "12.39838530",
+        "population": 9439363,
+        "timezone": "UTC-12:36",
+        "id": 336,
+        "country_id": 112
+    },
+    {
+        "name": "Chagang Province",
+        "latitude": "40.72028090",
+        "longitude": "126.56211370",
+        "population": 3818602,
+        "timezone": "UTC-03:47",
+        "id": 337,
+        "country_id": 113
+    },
+    {
+        "name": "Kangwon Province",
+        "latitude": "38.84323930",
+        "longitude": "127.55970670",
+        "population": 5042089,
+        "timezone": "UTC-01:51",
+        "id": 338,
+        "country_id": 113
+    },
+    {
+        "name": "North Hamgyong Province",
+        "latitude": "41.81487580",
+        "longitude": "129.45819550",
+        "population": 1652748,
+        "timezone": "UTC-08:20",
+        "id": 339,
+        "country_id": 113
+    },
+    {
+        "name": "Aerodrom Municipality",
+        "latitude": "41.94643630",
+        "longitude": "21.49317130",
+        "population": 3491415,
+        "timezone": "UTC+01:20",
+        "id": 340,
+        "country_id": 114
+    },
+    {
+        "name": "Ara\u010dinovo Municipality",
+        "latitude": "42.02473810",
+        "longitude": "21.57664070",
+        "population": 3724086,
+        "timezone": "UTC+02:41",
+        "id": 341,
+        "country_id": 114
+    },
+    {
+        "name": "Berovo Municipality",
+        "latitude": "41.66619290",
+        "longitude": "22.76288300",
+        "population": 9316238,
+        "timezone": "UTC+01:45",
+        "id": 342,
+        "country_id": 114
+    },
+    {
+        "name": "Agder",
+        "latitude": "58.74069340",
+        "longitude": "6.75315210",
+        "population": 4016101,
+        "timezone": "UTC+10:58",
+        "id": 343,
+        "country_id": 115
+    },
+    {
+        "name": "Innlandet",
+        "latitude": "61.19357870",
+        "longitude": "5.50832660",
+        "population": 2521057,
+        "timezone": "UTC+11:32",
+        "id": 344,
+        "country_id": 115
+    },
+    {
+        "name": "Jan Mayen",
+        "latitude": "71.03181800",
+        "longitude": "-8.29203460",
+        "population": 5113111,
+        "timezone": "UTC-12:15",
+        "id": 345,
+        "country_id": 115
+    },
+    {
+        "name": "Ad Dakhiliyah",
+        "latitude": "22.85887580",
+        "longitude": "57.53943560",
+        "population": 9741512,
+        "timezone": "UTC+03:03",
+        "id": 346,
+        "country_id": 116
+    },
+    {
+        "name": "Ad Dhahirah",
+        "latitude": "23.21616740",
+        "longitude": "56.49074440",
+        "population": 5309532,
+        "timezone": "UTC-01:01",
+        "id": 347,
+        "country_id": 116
+    },
+    {
+        "name": "Al Batinah North",
+        "latitude": "24.34198460",
+        "longitude": "56.72989040",
+        "population": 9938138,
+        "timezone": "UTC-01:53",
+        "id": 348,
+        "country_id": 116
+    },
+    {
+        "name": "Azad Kashmir",
+        "latitude": "33.92590550",
+        "longitude": "73.78103340",
+        "population": 4558424,
+        "timezone": "UTC+12:44",
+        "id": 349,
+        "country_id": 117
+    },
+    {
+        "name": "Balochistan",
+        "latitude": "28.49073320",
+        "longitude": "65.09577920",
+        "population": 9789635,
+        "timezone": "UTC+07:25",
+        "id": 350,
+        "country_id": 117
+    },
+    {
+        "name": "Federally Administered Tribal Areas",
+        "latitude": "32.66747600",
+        "longitude": "69.85974060",
+        "population": 9479124,
+        "timezone": "UTC-11:55",
+        "id": 351,
+        "country_id": 117
+    },
+    {
+        "name": "Aimeliik",
+        "latitude": "7.44558590",
+        "longitude": "134.50308780",
+        "population": 4255765,
+        "timezone": "UTC-09:13",
+        "id": 352,
+        "country_id": 118
+    },
+    {
+        "name": "Airai",
+        "latitude": "7.39661180",
+        "longitude": "134.56902250",
+        "population": 1720535,
+        "timezone": "UTC-02:44",
+        "id": 353,
+        "country_id": 118
+    },
+    {
+        "name": "Angaur",
+        "latitude": "6.90922300",
+        "longitude": "134.13879340",
+        "population": 1757090,
+        "timezone": "UTC+06:45",
+        "id": 354,
+        "country_id": 118
+    },
+    {
+        "name": "Bocas del Toro Province",
+        "latitude": "9.41655210",
+        "longitude": "-82.52077870",
+        "population": 4268369,
+        "timezone": "UTC-07:43",
+        "id": 355,
+        "country_id": 119
+    },
+    {
+        "name": "Chiriqu\u00ed Province",
+        "latitude": "8.58489800",
+        "longitude": "-82.38857830",
+        "population": 2652810,
+        "timezone": "UTC-05:46",
+        "id": 356,
+        "country_id": 119
+    },
+    {
+        "name": "Cocl\u00e9 Province",
+        "latitude": "8.62660680",
+        "longitude": "-80.36586500",
+        "population": 8529904,
+        "timezone": "UTC-07:39",
+        "id": 357,
+        "country_id": 119
+    },
+    {
+        "name": "Bougainville",
+        "latitude": "-6.37539190",
+        "longitude": "155.38071010",
+        "population": 2059655,
+        "timezone": "UTC+06:54",
+        "id": 358,
+        "country_id": 120
+    },
+    {
+        "name": "Central Province",
+        "latitude": null,
+        "longitude": null,
+        "population": 8516928,
+        "timezone": "UTC-06:18",
+        "id": 359,
+        "country_id": 120
+    },
+    {
+        "name": "Chimbu Province",
+        "latitude": "-6.30876820",
+        "longitude": "144.87312190",
+        "population": 2595736,
+        "timezone": "UTC-07:53",
+        "id": 360,
+        "country_id": 120
+    },
+    {
+        "name": "Alto Paraguay Department",
+        "latitude": "-20.08525080",
+        "longitude": "-59.47209040",
+        "population": 7408457,
+        "timezone": "UTC-01:26",
+        "id": 361,
+        "country_id": 121
+    },
+    {
+        "name": "Alto Paran\u00e1 Department",
+        "latitude": "-25.60755460",
+        "longitude": "-54.96118360",
+        "population": 6261706,
+        "timezone": "UTC+10:25",
+        "id": 362,
+        "country_id": 121
+    },
+    {
+        "name": "Amambay Department",
+        "latitude": "-22.55902720",
+        "longitude": "-56.02499820",
+        "population": 5870963,
+        "timezone": "UTC+09:16",
+        "id": 363,
+        "country_id": 121
+    },
+    {
+        "name": "Amazonas",
+        "latitude": null,
+        "longitude": null,
+        "population": 1281334,
+        "timezone": "UTC-06:58",
+        "id": 364,
+        "country_id": 122
+    },
+    {
+        "name": "\u00c1ncash",
+        "latitude": "-9.32504970",
+        "longitude": "-77.56194190",
+        "population": 7125799,
+        "timezone": "UTC+12:34",
+        "id": 365,
+        "country_id": 122
+    },
+    {
+        "name": "Apur\u00edmac",
+        "latitude": "-14.05045330",
+        "longitude": "-73.08774900",
+        "population": 2113534,
+        "timezone": "UTC+02:14",
+        "id": 366,
+        "country_id": 122
+    },
+    {
+        "name": "Abra",
+        "latitude": "42.49708300",
+        "longitude": "-96.38441000",
+        "population": 3267991,
+        "timezone": "UTC+04:05",
+        "id": 367,
+        "country_id": 123
+    },
+    {
+        "name": "Agusan del Norte",
+        "latitude": "8.94562590",
+        "longitude": "125.53192340",
+        "population": 5646113,
+        "timezone": "UTC-08:36",
+        "id": 368,
+        "country_id": 123
+    },
+    {
+        "name": "Agusan del Sur",
+        "latitude": "8.04638880",
+        "longitude": "126.06153840",
+        "population": 2811066,
+        "timezone": "UTC-01:15",
+        "id": 369,
+        "country_id": 123
+    },
+    {
+        "name": "Greater Poland Voivodeship",
+        "latitude": "52.27998600",
+        "longitude": "17.35229390",
+        "population": 3930192,
+        "timezone": "UTC+01:31",
+        "id": 370,
+        "country_id": 124
+    },
+    {
+        "name": "Kuyavian-Pomeranian Voivodeship",
+        "latitude": "53.16483630",
+        "longitude": "18.48342240",
+        "population": 7926104,
+        "timezone": "UTC-11:04",
+        "id": 371,
+        "country_id": 124
+    },
+    {
+        "name": "Lesser Poland Voivodeship",
+        "latitude": "49.72253060",
+        "longitude": "20.25033580",
+        "population": 1795538,
+        "timezone": "UTC+09:24",
+        "id": 372,
+        "country_id": 124
+    },
+    {
+        "name": "A\u00e7ores",
+        "latitude": "37.74124880",
+        "longitude": "-25.67559440",
+        "population": 7237740,
+        "timezone": "UTC-08:21",
+        "id": 373,
+        "country_id": 125
+    },
+    {
+        "name": "Aveiro",
+        "latitude": "40.72090230",
+        "longitude": "-8.57210160",
+        "population": 9466937,
+        "timezone": "UTC+11:06",
+        "id": 374,
+        "country_id": 125
+    },
+    {
+        "name": "Beja",
+        "latitude": "37.96877860",
+        "longitude": "-7.87216000",
+        "population": 6917428,
+        "timezone": "UTC+06:33",
+        "id": 375,
+        "country_id": 125
+    },
+    {
+        "name": "Al Daayen",
+        "latitude": "25.57845590",
+        "longitude": "51.48213870",
+        "population": 1756560,
+        "timezone": "UTC+10:26",
+        "id": 376,
+        "country_id": 126
+    },
+    {
+        "name": "Al Khor",
+        "latitude": "25.68040780",
+        "longitude": "51.49685020",
+        "population": 7778813,
+        "timezone": "UTC-05:07",
+        "id": 377,
+        "country_id": 126
+    },
+    {
+        "name": "Al Rayyan Municipality",
+        "latitude": "25.25225510",
+        "longitude": "51.43887130",
+        "population": 2850095,
+        "timezone": "UTC-04:33",
+        "id": 378,
+        "country_id": 126
+    },
+    {
+        "name": "Alba",
+        "latitude": "44.70091530",
+        "longitude": "8.03569110",
+        "population": 9800324,
+        "timezone": "UTC+00:00",
+        "id": 379,
+        "country_id": 127
+    },
+    {
+        "name": "Arad County",
+        "latitude": "46.22836510",
+        "longitude": "21.65978190",
+        "population": 5503214,
+        "timezone": "UTC-10:58",
+        "id": 380,
+        "country_id": 127
+    },
+    {
+        "name": "Arges",
+        "latitude": "45.07225270",
+        "longitude": "24.81427260",
+        "population": 8712114,
+        "timezone": "UTC+05:57",
+        "id": 381,
+        "country_id": 127
+    },
+    {
+        "name": "Altai Krai",
+        "latitude": "51.79362980",
+        "longitude": "82.67585960",
+        "population": 1848062,
+        "timezone": "UTC+06:55",
+        "id": 382,
+        "country_id": 128
+    },
+    {
+        "name": "Altai Republic",
+        "latitude": "50.61819240",
+        "longitude": "86.21993080",
+        "population": 8388915,
+        "timezone": "UTC-01:25",
+        "id": 383,
+        "country_id": 128
+    },
+    {
+        "name": "Amur Oblast",
+        "latitude": "54.60350650",
+        "longitude": "127.48017210",
+        "population": 4208165,
+        "timezone": "UTC+07:07",
+        "id": 384,
+        "country_id": 128
+    },
+    {
+        "name": "Eastern Province",
+        "latitude": null,
+        "longitude": null,
+        "population": 2185099,
+        "timezone": "UTC+01:26",
+        "id": 385,
+        "country_id": 129
+    },
+    {
+        "name": "Kigali district",
+        "latitude": "-1.94407270",
+        "longitude": "30.06188510",
+        "population": 4888888,
+        "timezone": "UTC-03:15",
+        "id": 386,
+        "country_id": 129
+    },
+    {
+        "name": "Northern Province",
+        "latitude": null,
+        "longitude": null,
+        "population": 1576761,
+        "timezone": "UTC-12:24",
+        "id": 387,
+        "country_id": 129
+    },
+    {
+        "name": "Christ Church Nichola Town Parish",
+        "latitude": "17.36048120",
+        "longitude": "-62.76178370",
+        "population": 3606985,
+        "timezone": "UTC+00:04",
+        "id": 388,
+        "country_id": 130
+    },
+    {
+        "name": "Nevis",
+        "latitude": "17.15535580",
+        "longitude": "-62.57960260",
+        "population": 4834218,
+        "timezone": "UTC+02:20",
+        "id": 389,
+        "country_id": 130
+    },
+    {
+        "name": "Saint Anne Sandy Point Parish",
+        "latitude": "17.37253330",
+        "longitude": "-62.84411330",
+        "population": 5023627,
+        "timezone": "UTC+03:33",
+        "id": 390,
+        "country_id": 130
+    },
+    {
+        "name": "Anse la Raye Quarter",
+        "latitude": "13.94594240",
+        "longitude": "-61.03694680",
+        "population": 7878785,
+        "timezone": "UTC+07:49",
+        "id": 391,
+        "country_id": 131
+    },
+    {
+        "name": "Canaries",
+        "latitude": "28.29156370",
+        "longitude": "-16.62913040",
+        "population": 3595664,
+        "timezone": "UTC-11:42",
+        "id": 392,
+        "country_id": 131
+    },
+    {
+        "name": "Castries Quarter",
+        "latitude": "14.01010940",
+        "longitude": "-60.98746870",
+        "population": 7481949,
+        "timezone": "UTC-02:36",
+        "id": 393,
+        "country_id": 131
+    },
+    {
+        "name": "Charlotte Parish",
+        "latitude": "13.21754510",
+        "longitude": "-61.16362440",
+        "population": 7938303,
+        "timezone": "UTC-07:19",
+        "id": 394,
+        "country_id": 132
+    },
+    {
+        "name": "Grenadines Parish",
+        "latitude": "13.01229650",
+        "longitude": "-61.22773010",
+        "population": 3816586,
+        "timezone": "UTC+05:31",
+        "id": 395,
+        "country_id": 132
+    },
+    {
+        "name": "Saint Andrew Parish",
+        "latitude": "43.02429990",
+        "longitude": "-81.20250000",
+        "population": 1698821,
+        "timezone": "UTC-01:21",
+        "id": 396,
+        "country_id": 132
+    },
+    {
+        "name": "A'ana",
+        "latitude": "-13.89841800",
+        "longitude": "-171.97529950",
+        "population": 3547274,
+        "timezone": "UTC+12:52",
+        "id": 397,
+        "country_id": 133
+    },
+    {
+        "name": "Aiga-i-le-Tai",
+        "latitude": "-13.85137910",
+        "longitude": "-172.03254010",
+        "population": 6367561,
+        "timezone": "UTC+08:45",
+        "id": 398,
+        "country_id": 133
+    },
+    {
+        "name": "Atua",
+        "latitude": "-13.97870530",
+        "longitude": "-171.62542830",
+        "population": 3071955,
+        "timezone": "UTC+01:19",
+        "id": 399,
+        "country_id": 133
+    },
+    {
+        "name": "Acquaviva",
+        "latitude": "41.86715970",
+        "longitude": "14.74694790",
+        "population": 8723742,
+        "timezone": "UTC-10:52",
+        "id": 400,
+        "country_id": 134
+    },
+    {
+        "name": "Borgo Maggiore",
+        "latitude": "43.95748820",
+        "longitude": "12.45525460",
+        "population": 8223864,
+        "timezone": "UTC-09:57",
+        "id": 401,
+        "country_id": 134
+    },
+    {
+        "name": "Chiesanuova",
+        "latitude": "45.42261720",
+        "longitude": "7.65038540",
+        "population": 5127990,
+        "timezone": "UTC-03:30",
+        "id": 402,
+        "country_id": 134
+    },
+    {
+        "name": "Pr\u00edncipe Province",
+        "latitude": "1.61393810",
+        "longitude": "7.40569280",
+        "population": 9705126,
+        "timezone": "UTC+03:51",
+        "id": 403,
+        "country_id": 135
+    },
+    {
+        "name": "S\u00e3o Tom\u00e9 Province",
+        "latitude": "0.33019240",
+        "longitude": "6.73334300",
+        "population": 4755904,
+        "timezone": "UTC-06:07",
+        "id": 404,
+        "country_id": 135
+    },
+    {
+        "name": "'Asir",
+        "latitude": "19.09690620",
+        "longitude": "42.86378750",
+        "population": 2781837,
+        "timezone": "UTC-10:48",
+        "id": 405,
+        "country_id": 136
+    },
+    {
+        "name": "Al Bahah",
+        "latitude": "20.27227390",
+        "longitude": "41.44125100",
+        "population": 2158318,
+        "timezone": "UTC+00:14",
+        "id": 406,
+        "country_id": 136
+    },
+    {
+        "name": "Al Jawf",
+        "latitude": "29.88735600",
+        "longitude": "39.32062410",
+        "population": 1594459,
+        "timezone": "UTC+08:07",
+        "id": 407,
+        "country_id": 136
+    },
+    {
+        "name": "Dakar",
+        "latitude": "14.71667700",
+        "longitude": "-17.46768610",
+        "population": 1404939,
+        "timezone": "UTC+08:22",
+        "id": 408,
+        "country_id": 137
+    },
+    {
+        "name": "Diourbel Region",
+        "latitude": "14.72830850",
+        "longitude": "-16.25221430",
+        "population": 4079531,
+        "timezone": "UTC+00:47",
+        "id": 409,
+        "country_id": 137
+    },
+    {
+        "name": "Fatick",
+        "latitude": "14.33901670",
+        "longitude": "-16.41114250",
+        "population": 9153907,
+        "timezone": "UTC-11:53",
+        "id": 410,
+        "country_id": 137
+    },
+    {
+        "name": "Belgrade",
+        "latitude": "44.78656800",
+        "longitude": "20.44892160",
+        "population": 6042080,
+        "timezone": "UTC+01:14",
+        "id": 411,
+        "country_id": 138
+    },
+    {
+        "name": "Bor District",
+        "latitude": "44.06989180",
+        "longitude": "22.09850860",
+        "population": 4937506,
+        "timezone": "UTC-12:50",
+        "id": 412,
+        "country_id": 138
+    },
+    {
+        "name": "Brani\u010devo District",
+        "latitude": "44.69822460",
+        "longitude": "21.54467750",
+        "population": 8241946,
+        "timezone": "UTC-08:52",
+        "id": 413,
+        "country_id": 138
+    },
+    {
+        "name": "Anse Boileau",
+        "latitude": "-4.70472680",
+        "longitude": "55.48593630",
+        "population": 2031632,
+        "timezone": "UTC-03:25",
+        "id": 414,
+        "country_id": 139
+    },
+    {
+        "name": "Anse Royale",
+        "latitude": "-4.74079880",
+        "longitude": "55.50810120",
+        "population": 6155279,
+        "timezone": "UTC-12:42",
+        "id": 415,
+        "country_id": 139
+    },
+    {
+        "name": "Anse-aux-Pins",
+        "latitude": "-4.69004430",
+        "longitude": "55.51502890",
+        "population": 9526181,
+        "timezone": "UTC+07:23",
+        "id": 416,
+        "country_id": 139
+    },
+    {
+        "name": "Eastern Province",
+        "latitude": null,
+        "longitude": null,
+        "population": 1159704,
+        "timezone": "UTC-07:54",
+        "id": 417,
+        "country_id": 140
+    },
+    {
+        "name": "Northern Province",
+        "latitude": null,
+        "longitude": null,
+        "population": 6117846,
+        "timezone": "UTC+08:27",
+        "id": 418,
+        "country_id": 140
+    },
+    {
+        "name": "Southern Province",
+        "latitude": null,
+        "longitude": null,
+        "population": 7120984,
+        "timezone": "UTC-04:58",
+        "id": 419,
+        "country_id": 140
+    },
+    {
+        "name": "Central Singapore",
+        "latitude": "1.28840000",
+        "longitude": "103.85350000",
+        "population": 9791288,
+        "timezone": "UTC+00:29",
+        "id": 420,
+        "country_id": 141
+    },
+    {
+        "name": "North East",
+        "latitude": "1.38240000",
+        "longitude": "103.89720000",
+        "population": 6836267,
+        "timezone": "UTC+07:46",
+        "id": 421,
+        "country_id": 141
+    },
+    {
+        "name": "North West",
+        "latitude": "1.41800000",
+        "longitude": "103.82750000",
+        "population": 7233263,
+        "timezone": "UTC-10:08",
+        "id": 422,
+        "country_id": 141
+    },
+    {
+        "name": "Bansk\u00e1 Bystrica Region",
+        "latitude": "48.53124990",
+        "longitude": "19.38287400",
+        "population": 8626098,
+        "timezone": "UTC-12:06",
+        "id": 423,
+        "country_id": 142
+    },
+    {
+        "name": "Bratislava Region",
+        "latitude": "48.31183040",
+        "longitude": "17.19732990",
+        "population": 3013036,
+        "timezone": "UTC+08:19",
+        "id": 424,
+        "country_id": 142
+    },
+    {
+        "name": "Ko\u0161ice Region",
+        "latitude": "48.63757370",
+        "longitude": "21.08342250",
+        "population": 8329005,
+        "timezone": "UTC-08:19",
+        "id": 425,
+        "country_id": 142
+    },
+    {
+        "name": "Ajdov\u0161\u010dina Municipality",
+        "latitude": "45.88707760",
+        "longitude": "13.90428180",
+        "population": 2699488,
+        "timezone": "UTC+00:32",
+        "id": 426,
+        "country_id": 143
+    },
+    {
+        "name": "Ankaran Municipality",
+        "latitude": "45.57845100",
+        "longitude": "13.73691740",
+        "population": 7117444,
+        "timezone": "UTC-03:09",
+        "id": 427,
+        "country_id": 143
+    },
+    {
+        "name": "Beltinci Municipality",
+        "latitude": "46.60791530",
+        "longitude": "16.23651270",
+        "population": 4990696,
+        "timezone": "UTC+03:59",
+        "id": 428,
+        "country_id": 143
+    },
+    {
+        "name": "Central Province",
+        "latitude": null,
+        "longitude": null,
+        "population": 8555667,
+        "timezone": "UTC-01:37",
+        "id": 429,
+        "country_id": 144
+    },
+    {
+        "name": "Choiseul Province",
+        "latitude": "-7.05014940",
+        "longitude": "156.95114590",
+        "population": 6894764,
+        "timezone": "UTC-03:52",
+        "id": 430,
+        "country_id": 144
+    },
+    {
+        "name": "Guadalcanal Province",
+        "latitude": "-9.57732840",
+        "longitude": "160.14558050",
+        "population": 2666291,
+        "timezone": "UTC+08:17",
+        "id": 431,
+        "country_id": 144
+    },
+    {
+        "name": "Awdal Region",
+        "latitude": "10.63342850",
+        "longitude": "43.32946600",
+        "population": 8276767,
+        "timezone": "UTC+12:52",
+        "id": 432,
+        "country_id": 145
+    },
+    {
+        "name": "Bakool",
+        "latitude": "4.36572210",
+        "longitude": "44.09603110",
+        "population": 4479457,
+        "timezone": "UTC-06:52",
+        "id": 433,
+        "country_id": 145
+    },
+    {
+        "name": "Banaadir",
+        "latitude": "2.11873750",
+        "longitude": "45.33694590",
+        "population": 3118646,
+        "timezone": "UTC-02:01",
+        "id": 434,
+        "country_id": 145
+    },
+    {
+        "name": "Eastern Cape",
+        "latitude": "-32.29684020",
+        "longitude": "26.41938900",
+        "population": 2013551,
+        "timezone": "UTC+09:46",
+        "id": 435,
+        "country_id": 146
+    },
+    {
+        "name": "Free State",
+        "latitude": "37.68585250",
+        "longitude": "-97.28112560",
+        "population": 3269399,
+        "timezone": "UTC+06:07",
+        "id": 436,
+        "country_id": 146
+    },
+    {
+        "name": "Gauteng",
+        "latitude": "-26.27075930",
+        "longitude": "28.11226790",
+        "population": 2797236,
+        "timezone": "UTC+11:28",
+        "id": 437,
+        "country_id": 146
+    },
+    {
+        "name": "Busan",
+        "latitude": "35.17955430",
+        "longitude": "129.07564160",
+        "population": 1421192,
+        "timezone": "UTC+01:04",
+        "id": 438,
+        "country_id": 147
+    },
+    {
+        "name": "Daegu",
+        "latitude": "35.87143540",
+        "longitude": "128.60144500",
+        "population": 8453238,
+        "timezone": "UTC-09:20",
+        "id": 439,
+        "country_id": 147
+    },
+    {
+        "name": "Daejeon",
+        "latitude": "36.35041190",
+        "longitude": "127.38454750",
+        "population": 6386359,
+        "timezone": "UTC+11:19",
+        "id": 440,
+        "country_id": 147
+    },
+    {
+        "name": "Central Equatoria",
+        "latitude": "4.61440630",
+        "longitude": "31.26263660",
+        "population": 8632231,
+        "timezone": "UTC-02:28",
+        "id": 441,
+        "country_id": 148
+    },
+    {
+        "name": "Eastern Equatoria",
+        "latitude": "5.06929950",
+        "longitude": "33.43835300",
+        "population": 8103422,
+        "timezone": "UTC+00:35",
+        "id": 442,
+        "country_id": 148
+    },
+    {
+        "name": "Jonglei State",
+        "latitude": "7.18196190",
+        "longitude": "32.35609520",
+        "population": 6078175,
+        "timezone": "UTC+07:40",
+        "id": 443,
+        "country_id": 148
+    },
+    {
+        "name": "A Coru\u00f1a",
+        "latitude": "43.36190400",
+        "longitude": "-8.43019320",
+        "population": 6994473,
+        "timezone": "UTC-12:32",
+        "id": 444,
+        "country_id": 149
+    },
+    {
+        "name": "Albacete",
+        "latitude": "38.99223120",
+        "longitude": "-1.87809890",
+        "population": 3398971,
+        "timezone": "UTC+10:58",
+        "id": 445,
+        "country_id": 149
+    },
+    {
+        "name": "Alicante",
+        "latitude": "38.35795460",
+        "longitude": "-0.54256340",
+        "population": 5833986,
+        "timezone": "UTC-09:08",
+        "id": 446,
+        "country_id": 149
+    },
+    {
+        "name": "Ampara District",
+        "latitude": "7.29116850",
+        "longitude": "81.67237610",
+        "population": 9596531,
+        "timezone": "UTC+10:56",
+        "id": 447,
+        "country_id": 150
+    },
+    {
+        "name": "Anuradhapura District",
+        "latitude": "8.33183050",
+        "longitude": "80.40290170",
+        "population": 8080503,
+        "timezone": "UTC-03:38",
+        "id": 448,
+        "country_id": 150
+    },
+    {
+        "name": "Badulla District",
+        "latitude": "6.99340090",
+        "longitude": "81.05498150",
+        "population": 3662592,
+        "timezone": "UTC-10:10",
+        "id": 449,
+        "country_id": 150
+    },
+    {
+        "name": "Al Jazirah",
+        "latitude": "14.88596110",
+        "longitude": "33.43835300",
+        "population": 3872954,
+        "timezone": "UTC+00:30",
+        "id": 450,
+        "country_id": 151
+    },
+    {
+        "name": "Al Qadarif",
+        "latitude": "14.02430700",
+        "longitude": "35.36856790",
+        "population": 4922281,
+        "timezone": "UTC+10:15",
+        "id": 451,
+        "country_id": 151
+    },
+    {
+        "name": "Blue Nile",
+        "latitude": "47.59867300",
+        "longitude": "-122.33441900",
+        "population": 4624063,
+        "timezone": "UTC-10:07",
+        "id": 452,
+        "country_id": 151
+    },
+    {
+        "name": "Brokopondo District",
+        "latitude": "4.77102470",
+        "longitude": "-55.04933750",
+        "population": 4646203,
+        "timezone": "UTC-01:35",
+        "id": 453,
+        "country_id": 152
+    },
+    {
+        "name": "Commewijne District",
+        "latitude": "5.74021100",
+        "longitude": "-54.87312190",
+        "population": 5811577,
+        "timezone": "UTC+07:13",
+        "id": 454,
+        "country_id": 152
+    },
+    {
+        "name": "Coronie District",
+        "latitude": "5.69432710",
+        "longitude": "-56.29293810",
+        "population": 3018148,
+        "timezone": "UTC+05:29",
+        "id": 455,
+        "country_id": 152
+    },
+    {
+        "name": "Blekinge County",
+        "latitude": "56.28333333",
+        "longitude": "15.11666666",
+        "population": 6592245,
+        "timezone": "UTC-11:34",
+        "id": 456,
+        "country_id": 153
+    },
+    {
+        "name": "Dalarna County",
+        "latitude": "61.09170120",
+        "longitude": "14.66636530",
+        "population": 4628118,
+        "timezone": "UTC-07:57",
+        "id": 457,
+        "country_id": 153
+    },
+    {
+        "name": "G\u00e4vleborg County",
+        "latitude": "61.30119930",
+        "longitude": "16.15342140",
+        "population": 5257196,
+        "timezone": "UTC+12:18",
+        "id": 458,
+        "country_id": 153
+    },
+    {
+        "name": "Aargau",
+        "latitude": "47.38766640",
+        "longitude": "8.25542950",
+        "population": 3528267,
+        "timezone": "UTC-04:02",
+        "id": 459,
+        "country_id": 154
+    },
+    {
+        "name": "Appenzell Ausserrhoden",
+        "latitude": "47.36648100",
+        "longitude": "9.30009160",
+        "population": 1520334,
+        "timezone": "UTC-01:09",
+        "id": 460,
+        "country_id": 154
+    },
+    {
+        "name": "Appenzell Innerrhoden",
+        "latitude": "47.31619250",
+        "longitude": "9.43165730",
+        "population": 4516694,
+        "timezone": "UTC-03:58",
+        "id": 461,
+        "country_id": 154
+    },
+    {
+        "name": "Al-Hasakah",
+        "latitude": "36.40551500",
+        "longitude": "40.79691490",
+        "population": 1443071,
+        "timezone": "UTC-11:46",
+        "id": 462,
+        "country_id": 155
+    },
+    {
+        "name": "Al-Raqqah",
+        "latitude": "35.95941060",
+        "longitude": "38.99810520",
+        "population": 5415653,
+        "timezone": "UTC-05:52",
+        "id": 463,
+        "country_id": 155
+    },
+    {
+        "name": "Aleppo",
+        "latitude": "36.22623930",
+        "longitude": "37.46813960",
+        "population": 2118107,
+        "timezone": "UTC-04:36",
+        "id": 464,
+        "country_id": 155
+    },
+    {
+        "name": "Changhua",
+        "latitude": "24.05179630",
+        "longitude": "120.51613520",
+        "population": 8953636,
+        "timezone": "UTC+08:46",
+        "id": 465,
+        "country_id": 156
+    },
+    {
+        "name": "Chiayi",
+        "latitude": "23.45184280",
+        "longitude": "120.25546150",
+        "population": 6385996,
+        "timezone": "UTC+04:57",
+        "id": 466,
+        "country_id": 156
+    },
+    {
+        "name": "Chiayi",
+        "latitude": "23.48007510",
+        "longitude": "120.44911130",
+        "population": 9850520,
+        "timezone": "UTC-01:18",
+        "id": 467,
+        "country_id": 156
+    },
+    {
+        "name": "districts of Republican Subordination",
+        "latitude": "39.08579020",
+        "longitude": "70.24083250",
+        "population": 1744585,
+        "timezone": "UTC-06:14",
+        "id": 468,
+        "country_id": 157
+    },
+    {
+        "name": "Gorno-Badakhshan Autonomous Province",
+        "latitude": "38.41273200",
+        "longitude": "73.08774900",
+        "population": 2319657,
+        "timezone": "UTC+12:10",
+        "id": 469,
+        "country_id": 157
+    },
+    {
+        "name": "Khatlon Province",
+        "latitude": "37.91135620",
+        "longitude": "69.09702300",
+        "population": 4393002,
+        "timezone": "UTC-04:34",
+        "id": 470,
+        "country_id": 157
+    },
+    {
+        "name": "Arusha",
+        "latitude": "-3.38692540",
+        "longitude": "36.68299270",
+        "population": 1977351,
+        "timezone": "UTC+02:41",
+        "id": 471,
+        "country_id": 158
+    },
+    {
+        "name": "Dar es Salaam",
+        "latitude": "-6.79235400",
+        "longitude": "39.20832840",
+        "population": 4289139,
+        "timezone": "UTC+01:54",
+        "id": 472,
+        "country_id": 158
+    },
+    {
+        "name": "Dodoma",
+        "latitude": "-6.57382280",
+        "longitude": "36.26308460",
+        "population": 9117517,
+        "timezone": "UTC+05:09",
+        "id": 473,
+        "country_id": 158
+    },
+    {
+        "name": "Amnat Charoen",
+        "latitude": "15.86567830",
+        "longitude": "104.62577740",
+        "population": 6813378,
+        "timezone": "UTC+05:39",
+        "id": 474,
+        "country_id": 159
+    },
+    {
+        "name": "Ang Thong",
+        "latitude": "14.58960540",
+        "longitude": "100.45505200",
+        "population": 6483810,
+        "timezone": "UTC+10:45",
+        "id": 475,
+        "country_id": 159
+    },
+    {
+        "name": "Bangkok",
+        "latitude": "13.75633090",
+        "longitude": "100.50176510",
+        "population": 6027817,
+        "timezone": "UTC-07:00",
+        "id": 476,
+        "country_id": 159
+    },
+    {
+        "name": "Aileu municipality",
+        "latitude": "-8.70439940",
+        "longitude": "125.60954740",
+        "population": 8991790,
+        "timezone": "UTC+11:39",
+        "id": 477,
+        "country_id": 160
+    },
+    {
+        "name": "Ainaro Municipality",
+        "latitude": "-9.01131710",
+        "longitude": "125.52200120",
+        "population": 7370390,
+        "timezone": "UTC-05:01",
+        "id": 478,
+        "country_id": 160
+    },
+    {
+        "name": "Baucau Municipality",
+        "latitude": "-8.47143080",
+        "longitude": "126.45759910",
+        "population": 7172442,
+        "timezone": "UTC+11:28",
+        "id": 479,
+        "country_id": 160
+    },
+    {
+        "name": "Centrale Region",
+        "latitude": "8.65860290",
+        "longitude": "1.05861350",
+        "population": 1419156,
+        "timezone": "UTC-05:42",
+        "id": 480,
+        "country_id": 161
+    },
+    {
+        "name": "Kara Region",
+        "latitude": "9.72163930",
+        "longitude": "1.05861350",
+        "population": 7418455,
+        "timezone": "UTC+09:03",
+        "id": 481,
+        "country_id": 161
+    },
+    {
+        "name": "Maritime",
+        "latitude": "41.65514930",
+        "longitude": "-83.52784670",
+        "population": 1342825,
+        "timezone": "UTC-03:09",
+        "id": 482,
+        "country_id": 161
+    },
+    {
+        "name": "Ha\u02bbapai",
+        "latitude": "-19.75000000",
+        "longitude": "-174.36666700",
+        "population": 6148057,
+        "timezone": "UTC+11:04",
+        "id": 483,
+        "country_id": 162
+    },
+    {
+        "name": "\u02bbEua",
+        "latitude": "37.09024000",
+        "longitude": "-95.71289100",
+        "population": 9499148,
+        "timezone": "UTC+08:20",
+        "id": 484,
+        "country_id": 162
+    },
+    {
+        "name": "Niuas",
+        "latitude": "-15.95940000",
+        "longitude": "-173.78300000",
+        "population": 3334007,
+        "timezone": "UTC-10:54",
+        "id": 485,
+        "country_id": 162
+    },
+    {
+        "name": "Arima",
+        "latitude": "46.79316040",
+        "longitude": "-71.25843110",
+        "population": 1330761,
+        "timezone": "UTC+09:29",
+        "id": 486,
+        "country_id": 163
+    },
+    {
+        "name": "Chaguanas",
+        "latitude": "10.51683870",
+        "longitude": "-61.41144820",
+        "population": 2338025,
+        "timezone": "UTC+00:17",
+        "id": 487,
+        "country_id": 163
+    },
+    {
+        "name": "Couva-Tabaquite-Talparo Regional Corporation",
+        "latitude": "10.42971450",
+        "longitude": "-61.37352100",
+        "population": 4167436,
+        "timezone": "UTC+09:49",
+        "id": 488,
+        "country_id": 163
+    },
+    {
+        "name": "Ariana",
+        "latitude": "36.99227510",
+        "longitude": "10.12551640",
+        "population": 2057809,
+        "timezone": "UTC-12:33",
+        "id": 489,
+        "country_id": 164
+    },
+    {
+        "name": "B\u00e9ja",
+        "latitude": "35.17227160",
+        "longitude": "8.83076260",
+        "population": 3661323,
+        "timezone": "UTC-08:17",
+        "id": 490,
+        "country_id": 164
+    },
+    {
+        "name": "Ben Arous",
+        "latitude": "36.64356060",
+        "longitude": "10.21515780",
+        "population": 7292619,
+        "timezone": "UTC-05:59",
+        "id": 491,
+        "country_id": 164
+    },
+    {
+        "name": "Adana",
+        "latitude": "37.26123150",
+        "longitude": "35.39050460",
+        "population": 1955853,
+        "timezone": "UTC+09:18",
+        "id": 492,
+        "country_id": 165
+    },
+    {
+        "name": "Ad\u0131yaman",
+        "latitude": "37.90782910",
+        "longitude": "38.48499230",
+        "population": 8871357,
+        "timezone": "UTC+11:01",
+        "id": 493,
+        "country_id": 165
+    },
+    {
+        "name": "Afyonkarahisar",
+        "latitude": "38.73910990",
+        "longitude": "30.71200230",
+        "population": 7565351,
+        "timezone": "UTC-04:38",
+        "id": 494,
+        "country_id": 165
+    },
+    {
+        "name": "Ahal Region",
+        "latitude": "38.63993980",
+        "longitude": "59.47209040",
+        "population": 7970877,
+        "timezone": "UTC+11:25",
+        "id": 495,
+        "country_id": 166
+    },
+    {
+        "name": "Ashgabat",
+        "latitude": "37.96007660",
+        "longitude": "58.32606290",
+        "population": 3716074,
+        "timezone": "UTC+12:21",
+        "id": 496,
+        "country_id": 166
+    },
+    {
+        "name": "Balkan Region",
+        "latitude": "41.81014720",
+        "longitude": "21.09373110",
+        "population": 8424943,
+        "timezone": "UTC+11:40",
+        "id": 497,
+        "country_id": 166
+    },
+    {
+        "name": "Funafuti",
+        "latitude": "-8.52114710",
+        "longitude": "179.19619260",
+        "population": 6517353,
+        "timezone": "UTC+05:55",
+        "id": 498,
+        "country_id": 167
+    },
+    {
+        "name": "Nanumanga",
+        "latitude": "-6.28580190",
+        "longitude": "176.31992800",
+        "population": 2617205,
+        "timezone": "UTC-11:16",
+        "id": 499,
+        "country_id": 167
+    },
+    {
+        "name": "Nanumea",
+        "latitude": "-5.68816170",
+        "longitude": "176.13701480",
+        "population": 8413378,
+        "timezone": "UTC-11:31",
+        "id": 500,
+        "country_id": 167
+    },
+    {
+        "name": "Abim District",
+        "latitude": "2.70669800",
+        "longitude": "33.65953370",
+        "population": 1585955,
+        "timezone": "UTC+04:48",
+        "id": 501,
+        "country_id": 168
+    },
+    {
+        "name": "Adjumani District",
+        "latitude": "3.25485270",
+        "longitude": "31.71954590",
+        "population": 2608085,
+        "timezone": "UTC-10:26",
+        "id": 502,
+        "country_id": 168
+    },
+    {
+        "name": "Agago District",
+        "latitude": "2.92508200",
+        "longitude": "33.34861470",
+        "population": 7234735,
+        "timezone": "UTC-08:30",
+        "id": 503,
+        "country_id": 168
+    },
+    {
+        "name": "Autonomous Republic of Crimea",
+        "latitude": "44.95211700",
+        "longitude": "34.10241700",
+        "population": 2617725,
+        "timezone": "UTC-02:11",
+        "id": 504,
+        "country_id": 169
+    },
+    {
+        "name": "Cherkaska oblast",
+        "latitude": "49.44443300",
+        "longitude": "32.05976700",
+        "population": 6971466,
+        "timezone": "UTC-12:11",
+        "id": 505,
+        "country_id": 169
+    },
+    {
+        "name": "Chernihivska oblast",
+        "latitude": "51.49820000",
+        "longitude": "31.28934990",
+        "population": 4062192,
+        "timezone": "UTC+05:58",
+        "id": 506,
+        "country_id": 169
+    },
+    {
+        "name": "Abu Dhabi Emirate",
+        "latitude": "24.45388400",
+        "longitude": "54.37734380",
+        "population": 7588562,
+        "timezone": "UTC+04:06",
+        "id": 507,
+        "country_id": 170
+    },
+    {
+        "name": "Ajman Emirate",
+        "latitude": "25.40521650",
+        "longitude": "55.51364330",
+        "population": 6142310,
+        "timezone": "UTC+09:16",
+        "id": 508,
+        "country_id": 170
+    },
+    {
+        "name": "Dubai",
+        "latitude": "25.20484930",
+        "longitude": "55.27078280",
+        "population": 9402363,
+        "timezone": "UTC-03:52",
+        "id": 509,
+        "country_id": 170
+    },
+    {
+        "name": "Aberdeen",
+        "latitude": "57.14971700",
+        "longitude": "-2.09427800",
+        "population": 5081618,
+        "timezone": "UTC-06:24",
+        "id": 510,
+        "country_id": 171
+    },
+    {
+        "name": "Aberdeenshire",
+        "latitude": "57.28687230",
+        "longitude": "-2.38156840",
+        "population": 2164931,
+        "timezone": "UTC-12:24",
+        "id": 511,
+        "country_id": 171
+    },
+    {
+        "name": "Angus",
+        "latitude": "37.27578860",
+        "longitude": "-95.65010330",
+        "population": 4942291,
+        "timezone": "UTC+06:25",
+        "id": 512,
+        "country_id": 171
+    },
+    {
+        "name": "Alabama",
+        "latitude": "32.31823140",
+        "longitude": "-86.90229800",
+        "population": 1679725,
+        "timezone": "UTC+11:52",
+        "id": 513,
+        "country_id": 172
+    },
+    {
+        "name": "Alaska",
+        "latitude": "64.20084130",
+        "longitude": "-149.49367330",
+        "population": 4182562,
+        "timezone": "UTC+00:51",
+        "id": 514,
+        "country_id": 172
+    },
+    {
+        "name": "American Samoa",
+        "latitude": "-14.27097200",
+        "longitude": "-170.13221700",
+        "population": 7221160,
+        "timezone": "UTC+08:00",
+        "id": 515,
+        "country_id": 172
+    },
+    {
+        "name": "Artigas",
+        "latitude": "-30.61751120",
+        "longitude": "-56.95945590",
+        "population": 9345073,
+        "timezone": "UTC+12:36",
+        "id": 516,
+        "country_id": 173
+    },
+    {
+        "name": "Canelones",
+        "latitude": "-34.54087170",
+        "longitude": "-55.93076000",
+        "population": 5685118,
+        "timezone": "UTC-08:52",
+        "id": 517,
+        "country_id": 173
+    },
+    {
+        "name": "Cerro Largo",
+        "latitude": "-32.44110320",
+        "longitude": "-54.35217530",
+        "population": 5900654,
+        "timezone": "UTC-09:27",
+        "id": 518,
+        "country_id": 173
+    },
+    {
+        "name": "Andijan Region",
+        "latitude": "40.76859410",
+        "longitude": "72.23637900",
+        "population": 4814106,
+        "timezone": "UTC-08:25",
+        "id": 519,
+        "country_id": 174
+    },
+    {
+        "name": "Bukhara Region",
+        "latitude": "40.25041620",
+        "longitude": "63.20321510",
+        "population": 6192202,
+        "timezone": "UTC-01:09",
+        "id": 520,
+        "country_id": 174
+    },
+    {
+        "name": "Fergana Region",
+        "latitude": "40.45680810",
+        "longitude": "71.28742090",
+        "population": 9584668,
+        "timezone": "UTC-12:31",
+        "id": 521,
+        "country_id": 174
+    },
+    {
+        "name": "Malampa",
+        "latitude": "-16.40114050",
+        "longitude": "167.60778650",
+        "population": 7514180,
+        "timezone": "UTC+05:52",
+        "id": 522,
+        "country_id": 175
+    },
+    {
+        "name": "Penama",
+        "latitude": "-15.37957580",
+        "longitude": "167.90531820",
+        "population": 3799198,
+        "timezone": "UTC-07:04",
+        "id": 523,
+        "country_id": 175
+    },
+    {
+        "name": "Sanma",
+        "latitude": "-15.48400170",
+        "longitude": "166.91820970",
+        "population": 6587591,
+        "timezone": "UTC+09:18",
+        "id": 524,
+        "country_id": 175
+    },
+    {
+        "name": "Amazonas",
+        "latitude": "-3.41684270",
+        "longitude": "-65.85606460",
+        "population": 8738635,
+        "timezone": "UTC-01:07",
+        "id": 525,
+        "country_id": 176
+    },
+    {
+        "name": "Anzo\u00e1tegui",
+        "latitude": "8.59130730",
+        "longitude": "-63.95861110",
+        "population": 3311210,
+        "timezone": "UTC+10:57",
+        "id": 526,
+        "country_id": 176
+    },
+    {
+        "name": "Apure",
+        "latitude": "6.92694830",
+        "longitude": "-68.52471490",
+        "population": 8617677,
+        "timezone": "UTC+11:20",
+        "id": 527,
+        "country_id": 176
+    },
+    {
+        "name": "An Giang",
+        "latitude": "10.52158360",
+        "longitude": "105.12589550",
+        "population": 8073371,
+        "timezone": "UTC-01:55",
+        "id": 528,
+        "country_id": 177
+    },
+    {
+        "name": "B\u00e0 R\u1ecba-V\u0169ng T\u00e0u",
+        "latitude": "10.54173970",
+        "longitude": "107.24299760",
+        "population": 4553751,
+        "timezone": "UTC-10:15",
+        "id": 529,
+        "country_id": 177
+    },
+    {
+        "name": "B\u1eafc Giang",
+        "latitude": "21.28199210",
+        "longitude": "106.19747690",
+        "population": 1211804,
+        "timezone": "UTC-02:45",
+        "id": 530,
+        "country_id": 177
+    },
+    {
+        "name": "'Adan",
+        "latitude": "12.82574810",
+        "longitude": "44.79438040",
+        "population": 6453715,
+        "timezone": "UTC-08:48",
+        "id": 531,
+        "country_id": 178
+    },
+    {
+        "name": "'Amran",
+        "latitude": "16.25692140",
+        "longitude": "43.94367880",
+        "population": 9663556,
+        "timezone": "UTC+00:00",
+        "id": 532,
+        "country_id": 178
+    },
+    {
+        "name": "Abyan",
+        "latitude": "13.63434130",
+        "longitude": "46.05632120",
+        "population": 3976547,
+        "timezone": "UTC+07:19",
+        "id": 533,
+        "country_id": 178
+    },
+    {
+        "name": "Central Province",
+        "latitude": "7.25649960",
+        "longitude": "80.72144170",
+        "population": 5254800,
+        "timezone": "UTC+05:03",
+        "id": 534,
+        "country_id": 179
+    },
+    {
+        "name": "Copperbelt Province",
+        "latitude": "-13.05700730",
+        "longitude": "27.54958460",
+        "population": 3737303,
+        "timezone": "UTC+02:37",
+        "id": 535,
+        "country_id": 179
+    },
+    {
+        "name": "Eastern Province",
+        "latitude": "23.16696880",
+        "longitude": "49.36531490",
+        "population": 6085780,
+        "timezone": "UTC+02:23",
+        "id": 536,
+        "country_id": 179
+    },
+    {
+        "name": "Bulawayo Province",
+        "latitude": "-20.14895050",
+        "longitude": "28.53310380",
+        "population": 3583110,
+        "timezone": "UTC+09:56",
+        "id": 537,
+        "country_id": 180
+    },
+    {
+        "name": "Harare Province",
+        "latitude": "-17.82162880",
+        "longitude": "31.04922590",
+        "population": 3011199,
+        "timezone": "UTC-07:13",
+        "id": 538,
+        "country_id": 180
+    },
+    {
+        "name": "Manicaland",
+        "latitude": "-18.92163860",
+        "longitude": "32.17460500",
+        "population": 6717460,
+        "timezone": "UTC-10:26",
+        "id": 539,
+        "country_id": 180
+    }
+]
